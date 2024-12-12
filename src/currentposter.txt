@@ -1,0 +1,992 @@
+https://www.omdbapi.com/?t=Sing+Street&apikey=ebc63de1
+Title: Sing Street, Poster: https://m.media-amazon.com/images/M/MV5BMjEzODA3MDcxMl5BMl5BanBnXkFtZTgwODgxNDk3NzE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Thor:+Ragnarok&apikey=ebc63de1
+Title: Thor: Ragnarok, Poster: https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Nightcrawler&apikey=ebc63de1
+Title: Nightcrawler, Poster: https://m.media-amazon.com/images/M/MV5BYjMwMmI5MWQtOTU4OS00OTAyLTg0OTYtNmQ5YzExZTQ3ZWJhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Jojo+Rabbit&apikey=ebc63de1
+Title: Jojo Rabbit, Poster: https://m.media-amazon.com/images/M/MV5BYmFmNmUyMjYtZTFjNS00OWQyLThhZmMtMGZkYTQ3YjY0ZDQ1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Arrival&apikey=ebc63de1
+Title: Arrival, Poster: https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg
+https://www.omdbapi.com/?t=Star+Wars:+Episode+VII+-+The+Force+Awakens&apikey=ebc63de1
+Title: Star Wars: Episode VII - The Force Awakens, Poster: https://m.media-amazon.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Before+Midnight&apikey=ebc63de1
+Title: Before Midnight, Poster: https://m.media-amazon.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=X-Men:+Days+of+Future+Past&apikey=ebc63de1
+Title: X-Men: Days of Future Past, Poster: https://m.media-amazon.com/images/M/MV5BNzNiYWE4NjMtMTU4OS00NmM4LWE4ZjAtYmE5OTA5NjkzODExXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Bir+Zamanlar+Anadolu'da&apikey=ebc63de1
+Movie 'Bir Zamanlar Anadolu'da' not found in OMDb.
+https://www.omdbapi.com/?t=The+Artist&apikey=ebc63de1
+Title: The Artist, Poster: https://m.media-amazon.com/images/M/MV5BYjEwOGZmM2QtNjY4Mi00NjI0LTkyZjItZDEzZGI1YTEzMDg1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Edge+of+Tomorrow&apikey=ebc63de1
+Title: Edge of Tomorrow, Poster: https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Amour&apikey=ebc63de1
+Title: Amour, Poster: https://m.media-amazon.com/images/M/MV5BMTk1NTc3NDc4MF5BMl5BanBnXkFtZTcwNjYwNDk0OA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Irishman&apikey=ebc63de1
+Title: The Irishman, Poster: https://m.media-amazon.com/images/M/MV5BMTY2YThkNmQtOWJhYy00ZDc3LWEzOGEtMmQwNzM0YjFmZWIyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Un+prophète&apikey=ebc63de1
+Title: Andy Warhol, un prophète américain, Poster: https://m.media-amazon.com/images/M/MV5BOTg2NjNmNjItYmVkNS00MTRjLTgxZWMtM2E0NjIzNGZkNDQ1XkEyXkFqcGdeQXVyOTg0MTUyMzU@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Moon&apikey=ebc63de1
+Title: Moon, Poster: https://m.media-amazon.com/images/M/MV5BMTgzODgyNTQwOV5BMl5BanBnXkFtZTcwNzc0NTc0Mg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Låt+den+rätte+komma+in&apikey=ebc63de1
+Movie 'Låt den rätte komma in' not found in OMDb.
+https://www.omdbapi.com/?t=District+9&apikey=ebc63de1
+Title: District 9, Poster: https://m.media-amazon.com/images/M/MV5BMTM4OTI1OTM5NF5BMl5BanBnXkFtZTcwMzk5MTU1Mg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Wrestler&apikey=ebc63de1
+Title: The Wrestler, Poster: https://m.media-amazon.com/images/M/MV5BMTc5MjYyOTg4MF5BMl5BanBnXkFtZTcwNDc2MzQwMg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Jab+We+Met&apikey=ebc63de1
+Title: Jab We Met, Poster: https://m.media-amazon.com/images/M/MV5BYmEyMmYyOTgtM2I0My00M2QyLWJhYTYtNmNhOGYzMzQwMjVhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Boyhood&apikey=ebc63de1
+Title: Boyhood, Poster: https://m.media-amazon.com/images/M/MV5BMTYzNDc2MDc0N15BMl5BanBnXkFtZTgwOTcwMDQ5MTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=4+luni,+3+saptamâni+si+2+zile&apikey=ebc63de1
+Movie '4 luni, 3 saptamâni si 2 zile' not found in OMDb.
+https://www.omdbapi.com/?t=Star+Trek&apikey=ebc63de1
+Title: Star Trek, Poster: https://m.media-amazon.com/images/M/MV5BMjE5NDQ5OTE4Ml5BMl5BanBnXkFtZTcwOTE3NDIzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=In+Bruges&apikey=ebc63de1
+Title: In Bruges, Poster: https://m.media-amazon.com/images/M/MV5BNjliZjBlNDItOWUyZC00ZTExLTg5NmUtNzE5ZmQyZWVmZmE5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Man+from+Earth&apikey=ebc63de1
+Title: The Man from Earth, Poster: https://m.media-amazon.com/images/M/MV5BOTE1NGYxNjgtYmVlMS00ODEwLTg2NjAtMTdjODMzY2I1ZjZmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Letters+from+Iwo+Jima&apikey=ebc63de1
+Title: Letters from Iwo Jima, Poster: https://m.media-amazon.com/images/M/MV5BMjE0NzgwODI4M15BMl5BanBnXkFtZTcwNjg3OTA0MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Fall&apikey=ebc63de1
+Title: The Fall, Poster: https://m.media-amazon.com/images/M/MV5BZTU1NDkzNWMtOGU1Ny00NzJmLWI3NjUtNWYzMTk4YWI3ZjcxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Life+of+Pi&apikey=ebc63de1
+Title: Life of Pi, Poster: https://m.media-amazon.com/images/M/MV5BNTg2OTY2ODg5OF5BMl5BanBnXkFtZTcwODM5MTYxOA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Fantastic+Mr.+Fox&apikey=ebc63de1
+Title: Fantastic Mr. Fox, Poster: https://m.media-amazon.com/images/M/MV5BYTA1ZTIxZDUtNGFjYS00YTc5LTgzNDMtZWNjYjBlMzI2OTk3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=C.R.A.Z.Y.&apikey=ebc63de1
+Title: C.R.A.Z.Y., Poster: https://m.media-amazon.com/images/M/MV5BMzVmM2I5Y2EtZTRmMS00YmVhLTk1ZmItNWJmNjIyYmJkZjgxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Les+choristes&apikey=ebc63de1
+Title: Les Choristes: Le making of, Poster: https://m.media-amazon.com/images/M/MV5BM2I2M2U5ZmQtNmFlNS00NDY5LWExZjAtZWExOTJjY2QwYmNjXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Iron+Man&apikey=ebc63de1
+Title: Iron Man, Poster: https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Shaun+of+the+Dead&apikey=ebc63de1
+Title: Shaun of the Dead, Poster: https://m.media-amazon.com/images/M/MV5BNzNjZGE4YTUtOWU3OC00Mzg2LThjNWItMzUwYzEwMDgxYmVjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Gegen+die+Wand&apikey=ebc63de1
+Title: Gegen die Wand: Making of, Poster: https://m.media-amazon.com/images/M/MV5BYzg4NmU1NzktNWJkYi00N2EyLWIxMzctZTJhNzJiODAyYWI4XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mystic+River&apikey=ebc63de1
+Title: Mystic River, Poster: https://m.media-amazon.com/images/M/MV5BMTIzNDUyMjA4MV5BMl5BanBnXkFtZTYwNDc4ODM3._V1_SX300.jpg
+https://www.omdbapi.com/?t=Harry+Potter+and+the+Prisoner+of+Azkaban&apikey=ebc63de1
+Title: Harry Potter and the Prisoner of Azkaban, Poster: https://m.media-amazon.com/images/M/MV5BMTY4NTIwODg0N15BMl5BanBnXkFtZTcwOTc0MjEzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ying+xiong&apikey=ebc63de1
+Title: Pi Zi Ying Xiong 2, Poster: N/A
+https://www.omdbapi.com/?t=Hable+con+ella&apikey=ebc63de1
+Movie 'Hable con ella' not found in OMDb.
+https://www.omdbapi.com/?t=No+Man's+Land&apikey=ebc63de1
+Title: No Man's Land, Poster: https://m.media-amazon.com/images/M/MV5BNTY3MzY5OWQtOWE1NC00OTVmLWExZDctNzEyMjhiYTJlZTMzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Cowboy+Bebop:+Tengoku+no+tobira&apikey=ebc63de1
+Movie 'Cowboy Bebop: Tengoku no tobira' not found in OMDb.
+https://www.omdbapi.com/?t=The+Bourne+Identity&apikey=ebc63de1
+Title: The Bourne Identity, Poster: https://m.media-amazon.com/images/M/MV5BYTk1ZTcyMWMtMWUxYS00MmEzLTlmODYtOTk1MGRjOTg1ZjlmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Nueve+reinas&apikey=ebc63de1
+Movie 'Nueve reinas' not found in OMDb.
+https://www.omdbapi.com/?t=Children+of+Men&apikey=ebc63de1
+Title: Children of Men, Poster: https://m.media-amazon.com/images/M/MV5BMDNkNmNiYzYtYWY0YS00NWEwLTgwMWUtYjM0M2E4Nzk3MzhmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Almost+Famous&apikey=ebc63de1
+Title: Almost Famous, Poster: https://m.media-amazon.com/images/M/MV5BZGFmNDQzOTItOGZkNS00NjFkLWE4MjQtNmRjMjNlMjg3YzdiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mulholland+Dr.&apikey=ebc63de1
+Title: Mulholland Dr., Poster: https://m.media-amazon.com/images/M/MV5BNjA1NGRjM2UtOGM2Zi00MDM0LTkwMGMtODRhNWQ2ZTkwNWMzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Toy+Story+2&apikey=ebc63de1
+Title: Toy Story 2, Poster: https://m.media-amazon.com/images/M/MV5BNzVmODlhMDEtY2YxZi00OTVjLTlkNTktN2Q2OTRlM2I4M2FhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Boogie+Nights&apikey=ebc63de1
+Title: Boogie Nights, Poster: https://m.media-amazon.com/images/M/MV5BOTFmZmE4OTMtNDYxNi00MmZmLThlYjktMmExMzMwY2YzOTFiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mimi+wo+sumaseba&apikey=ebc63de1
+Movie 'Mimi wo sumaseba' not found in OMDb.
+https://www.omdbapi.com/?t=Once+Were+Warriors&apikey=ebc63de1
+Title: Once Were Warriors, Poster: https://m.media-amazon.com/images/M/MV5BOTdjYzZiZjMtMzk1MC00MDczLWIxNWEtMjk1ZDMxMzNlZDE2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=True+Romance&apikey=ebc63de1
+Title: True Romance, Poster: https://m.media-amazon.com/images/M/MV5BYzQ5OGMwMDAtMzcyOS00YTA4LWEwM2MtOTA1MDZjZGEyYmI1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Trois+couleurs:+Bleu&apikey=ebc63de1
+Movie 'Trois couleurs: Bleu' not found in OMDb.
+https://www.omdbapi.com/?t=Jûbê+ninpûchô&apikey=ebc63de1
+Movie 'Jûbê ninpûchô' not found in OMDb.
+https://www.omdbapi.com/?t=Carlito's+Way&apikey=ebc63de1
+Title: Carlito's Way, Poster: https://m.media-amazon.com/images/M/MV5BZjMxOTgzNzMtZmZlNC00YTMyLThhZDEtZjc2MTY4ZDgxNjcwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Edward+Scissorhands&apikey=ebc63de1
+Title: Edward Scissorhands, Poster: https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=My+Left+Foot:+The+Story+of+Christy+Brown&apikey=ebc63de1
+Movie 'My Left Foot: The Story of Christy Brown' not found in OMDb.
+https://www.omdbapi.com/?t=Crimes+and+Misdemeanors&apikey=ebc63de1
+Title: Crimes and Misdemeanors, Poster: https://m.media-amazon.com/images/M/MV5BNTQwZjFjODItNzI3ZS00ODUzLWI3MWUtNjU2NDQwNjQxMjhlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Untouchables&apikey=ebc63de1
+Title: The Untouchables, Poster: https://m.media-amazon.com/images/M/MV5BYjVlNTk3NGYtOWE0OC00MDI4LThlZWItZGMwMTdmYzcwM2Y5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hannah+and+Her+Sisters&apikey=ebc63de1
+Title: Hannah and Her Sisters, Poster: https://m.media-amazon.com/images/M/MV5BNTdmOWViYWMtMjVjNC00MDI5LTk3ZmEtM2MxMzFkMzQ5NzNjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Brazil&apikey=ebc63de1
+Title: Brazil, Poster: https://m.media-amazon.com/images/M/MV5BNjI1MTAzNmYtYzQ3Zi00ZWE0LWJiZmQtY2UwZWU3ZTE4OGQ3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=This+Is+Spinal+Tap&apikey=ebc63de1
+Title: This Is Spinal Tap, Poster: https://m.media-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=A+Christmas+Story&apikey=ebc63de1
+Title: A Christmas Story, Poster: https://m.media-amazon.com/images/M/MV5BZWZhYzI1YjktYzJjYy00NjIwLWE0MGItNWM4YWM2ZjFkNGM0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Blues+Brothers&apikey=ebc63de1
+Title: The Blues Brothers, Poster: https://m.media-amazon.com/images/M/MV5BNzI2ZDAyNjYtNzgwOS00MTRlLWE3MjUtMTI3M2VmYzQ1ZWJmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Manhattan&apikey=ebc63de1
+Title: Manhattan, Poster: https://m.media-amazon.com/images/M/MV5BMzhjMjEyOWItMWU2Ni00ZTE5LWFhODEtZGU1MTQyZjU4ODkzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=All+That+Jazz&apikey=ebc63de1
+Title: All That Jazz, Poster: https://m.media-amazon.com/images/M/MV5BNmU1ZjBlNWItMjNiYS00OWNlLTk3YjUtN2U1MTI0OTAxOGEwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dawn+of+the+Dead&apikey=ebc63de1
+Title: Dawn of the Dead, Poster: https://m.media-amazon.com/images/M/MV5BM2ZiYjNlMWYtNTc2My00ZTM4LWJhMjQtM2FlOWM0ZmE0Yjg1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=All+the+President's+Men&apikey=ebc63de1
+Title: All the President's Men, Poster: https://m.media-amazon.com/images/M/MV5BZGQzMzcwMDYtMmNjNS00YzZlLTg2MjUtNTE0MThlNTFjMDQ0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+montaña+sagrada&apikey=ebc63de1
+Title: Tepoztlán - El dueño de la montaña sagrada, Poster: https://m.media-amazon.com/images/M/MV5BMzM0NWNiNzAtMjM4NS00ODg0LTk0ZDYtNGQ3MTM0YmY5MDAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Amarcord&apikey=ebc63de1
+Title: Amarcord, Poster: https://m.media-amazon.com/images/M/MV5BMDFiMDIwMjQtNGFjYS00YTNiLTk5MjctZDYxMmRiNDUyNDZjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Le+charme+discret+de+la+bourgeoisie&apikey=ebc63de1
+Movie 'Le charme discret de la bourgeoisie' not found in OMDb.
+https://www.omdbapi.com/?t=Aguirre,+der+Zorn+Gottes&apikey=ebc63de1
+Movie 'Aguirre, der Zorn Gottes' not found in OMDb.
+https://www.omdbapi.com/?t=Harold+and+Maude&apikey=ebc63de1
+Title: Harold and Maude, Poster: https://m.media-amazon.com/images/M/MV5BZWQ2YTQ4N2ItMzBmZC00ODIyLWIwNWEtODk2M2FjNjZhMDlmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Patton&apikey=ebc63de1
+Title: Patton, Poster: https://m.media-amazon.com/images/M/MV5BYzQwNmI5MDItMGEyZi00Y2FjLTkzMTUtOTliOTIyOWRlN2Q0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Wild+Bunch&apikey=ebc63de1
+Title: The Wild Bunch, Poster: https://m.media-amazon.com/images/M/MV5BNmFlMWJlMDEtNjFlNC00YjQ1LWI1ZTYtZDZkNDY0N2RiMDA3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Night+of+the+Living+Dead&apikey=ebc63de1
+Title: Night of the Living Dead, Poster: https://m.media-amazon.com/images/M/MV5BZGMyZTA0MWEtZjczMS00ZDE5LTk1OTQtNmIxNGYzNDA2NDVhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Lion+in+Winter&apikey=ebc63de1
+Title: The Lion in Winter, Poster: https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=In+the+Heat+of+the+Night&apikey=ebc63de1
+Title: In the Heat of the Night, Poster: https://m.media-amazon.com/images/M/MV5BMjVmYjZkMmQtYmFjZC00MmFhLTg5NzMtNzgzODE0YjQwNzlmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Charade&apikey=ebc63de1
+Title: Charade, Poster: https://m.media-amazon.com/images/M/MV5BM2FiMmFkNWItNzNmOS00MWQ3LWExNTUtZWJkOTBmNzg0ZWRjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Manchurian+Candidate&apikey=ebc63de1
+Title: The Manchurian Candidate, Poster: https://m.media-amazon.com/images/M/MV5BMGVkNDJkYWYtYjE4Yy00OTEzLThkOTUtZTJiMjRkYzliNDk3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Spartacus&apikey=ebc63de1
+Title: Spartacus, Poster: https://m.media-amazon.com/images/M/MV5BNTc4ZjlkNjUtOWZlMS00ODQ0LTg2MWUtMjBkNjMwOTJkOWZmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=L'avventura&apikey=ebc63de1
+Title: L'Avventura, Poster: https://m.media-amazon.com/images/M/MV5BMWExNWNkZTUtZjYzNi00NTAyLTk3YzAtNzcxNTRmZDExZTljXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hiroshima+mon+amour&apikey=ebc63de1
+Title: Hiroshima Mon Amour, Poster: https://m.media-amazon.com/images/M/MV5BMzY2NTA1MzUwN15BMl5BanBnXkFtZTgwOTc4NTU4MjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Ten+Commandments&apikey=ebc63de1
+Title: The Ten Commandments, Poster: https://m.media-amazon.com/images/M/MV5BMDRiZmNjZDAtN2I0Ny00YjIyLTk3NTUtODUyYTJlMTJhY2U0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Searchers&apikey=ebc63de1
+Title: The Searchers, Poster: https://m.media-amazon.com/images/M/MV5BMTQ4YWI0MTItMTE4YS00ZTNjLWE3ZTQtN2E2MTlhYWQxNDNmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=East+of+Eden&apikey=ebc63de1
+Title: East of Eden, Poster: https://m.media-amazon.com/images/M/MV5BYjkyNzQ0MTgtOTk5Yi00NWVjLTkwYmMtZjhhMDkxMmZmMGZiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=High+Noon&apikey=ebc63de1
+Title: High Noon, Poster: https://m.media-amazon.com/images/M/MV5BMmJiZjA3ODgtNWI1Zi00OTA1LTkyNTMtZTA1NGYwOTQyZTA3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Strangers+on+a+Train&apikey=ebc63de1
+Title: Strangers on a Train, Poster: https://m.media-amazon.com/images/M/MV5BYjZkNjIwYjktN2IzOC00MmJlLWFkNDItZDZmNGZkNjQzZTA0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Harvey&apikey=ebc63de1
+Title: Harvey, Poster: https://m.media-amazon.com/images/M/MV5BZTNlNWRhZmEtYzgyOC00YTIxLTk1MjktMWQ1MjhlMmE0ZjljXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Miracle+on+34th+Street&apikey=ebc63de1
+Title: Miracle on 34th Street, Poster: https://m.media-amazon.com/images/M/MV5BZThmOTU4MzktNzg4Yy00NGRhLThlZjQtYjA1MjY2Zjg0N2RiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Notorious&apikey=ebc63de1
+Title: Notorious, Poster: https://m.media-amazon.com/images/M/MV5BOGU5ZjdmNzUtMGY0Ny00NjMyLWJiMDEtMmMzYmMyOTNjNzlmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Big+Sleep&apikey=ebc63de1
+Title: The Big Sleep, Poster: https://m.media-amazon.com/images/M/MV5BZTVlNDAwZTAtZmY0My00NDMyLWFkZjMtMjY0NmVmOTFlNTdhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Lost+Weekend&apikey=ebc63de1
+Title: The Lost Weekend, Poster: https://m.media-amazon.com/images/M/MV5BMTk4NDQ0NjgyNF5BMl5BanBnXkFtZTgwMTE3NTkxMTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Philadelphia+Story&apikey=ebc63de1
+Title: The Philadelphia Story, Poster: https://m.media-amazon.com/images/M/MV5BYmMwZTQ5OGUtMjQ4Ni00ZTIwLTk1ZWMtNzhlMGQxYjIxMTU1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=His+Girl+Friday&apikey=ebc63de1
+Title: His Girl Friday, Poster: https://m.media-amazon.com/images/M/MV5BMzRhMTQ1ZjEtYzM2MC00OThiLTk3NTEtNGRhNzcwNGM2YWQ4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Adventures+of+Robin+Hood&apikey=ebc63de1
+Title: The Adventures of Robin Hood, Poster: https://m.media-amazon.com/images/M/MV5BYjA3NzFjNmItYTkwZi00NmMyLWFiMDgtMzY4NjY1ODE0NTg1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=A+Night+at+the+Opera&apikey=ebc63de1
+Title: A Night at the Opera, Poster: https://m.media-amazon.com/images/M/MV5BMTYyNjgwMDg4NF5BMl5BanBnXkFtZTgwNTQ5MTM4MTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=King+Kong&apikey=ebc63de1
+Title: King Kong, Poster: https://m.media-amazon.com/images/M/MV5BMWY0NWE0ZjUtNjRlOS00ZDViLTgxNTQtMGMwN2FhNDY1YTg2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Freaks&apikey=ebc63de1
+Title: Freaks, Poster: https://m.media-amazon.com/images/M/MV5BMDM1ODExZmItYjc2MS00MTM4LWIxMGItOWI0OWM0MzI3N2Q1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Nosferatu&apikey=ebc63de1
+Title: Nosferatu, Poster: N/A
+https://www.omdbapi.com/?t=The+Gentlemen&apikey=ebc63de1
+Title: The Gentlemen, Poster: https://m.media-amazon.com/images/M/MV5BMjE2ZjQ4ZGMtZjFhMi00NmI5LTliNjEtODczMWMxNjliZjgxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Raazi&apikey=ebc63de1
+Title: Raazi, Poster: https://m.media-amazon.com/images/M/MV5BYjM0ZTQyNGQtNDZlYy00MWM5LWExZDAtZTM2ZWU4ZGNmYzk2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Sound+of+Metal&apikey=ebc63de1
+Title: Sound of Metal, Poster: https://m.media-amazon.com/images/M/MV5BMWE5ZmYwNDEtYTYwMS00MTc0LTk2ZWItZTM1MjQ1ZDYzZGUzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Forushande&apikey=ebc63de1
+Movie 'Forushande' not found in OMDb.
+https://www.omdbapi.com/?t=Dunkirk&apikey=ebc63de1
+Title: Dunkirk, Poster: https://m.media-amazon.com/images/M/MV5BZWU5ZjJkNTQtMzQwOS00ZGE4LWJkMWUtMGQ5YjdiM2FhYmRhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Perfetti+sconosciuti&apikey=ebc63de1
+Movie 'Perfetti sconosciuti' not found in OMDb.
+https://www.omdbapi.com/?t=Hidden+Figures&apikey=ebc63de1
+Title: Hidden Figures, Poster: https://m.media-amazon.com/images/M/MV5BY2RhNDRhNzctZTllMy00NTc2LWJjZmUtMzg3MTNiNjhhODMxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Paddington+2&apikey=ebc63de1
+Title: Paddington 2, Poster: https://m.media-amazon.com/images/M/MV5BNTk1YzlhMTUtZmU5MC00NmRmLTlkZjItYzQ0NTY4Y2NiNzc4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Udta+Punjab&apikey=ebc63de1
+Title: Udta Punjab, Poster: https://m.media-amazon.com/images/M/MV5BN2I5YjhlYTctYzhmNy00NGVlLWJjNDEtYWJkYjViMDEzMWViXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kubo+and+the+Two+Strings&apikey=ebc63de1
+Title: Kubo and the Two Strings, Poster: https://m.media-amazon.com/images/M/MV5BMjA2Mzg2NDMzNl5BMl5BanBnXkFtZTgwMjcwODUzOTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=M.S.+Dhoni:+The+Untold+Story&apikey=ebc63de1
+Title: M.S. Dhoni: The Untold Story, Poster: https://m.media-amazon.com/images/M/MV5BM2UwZTNkMmItYmYzOS00MTk3LTg3NDgtNzg5ZjYxNTIzNzY4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Manchester+by+the+Sea&apikey=ebc63de1
+Title: Manchester by the Sea, Poster: https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Under+sandet&apikey=ebc63de1
+Movie 'Under sandet' not found in OMDb.
+https://www.omdbapi.com/?t=Rogue+One&apikey=ebc63de1
+Title: Rogue One: A Star Wars Story, Poster: https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Captain+America:+Civil+War&apikey=ebc63de1
+Title: Captain America: Civil War, Poster: https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Hateful+Eight&apikey=ebc63de1
+Title: The Hateful Eight, Poster: https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Little+Women&apikey=ebc63de1
+Title: Little Women, Poster: https://m.media-amazon.com/images/M/MV5BMWMzYjNiZWMtMDg4NS00MDgyLTk5MWItOTFmNjg4NzRhZmExXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Loving+Vincent&apikey=ebc63de1
+Title: Loving Vincent, Poster: https://m.media-amazon.com/images/M/MV5BMTU3NjE2NjgwN15BMl5BanBnXkFtZTgwNDYzMzEwMzI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Pride&apikey=ebc63de1
+Title: Pride, Poster: https://m.media-amazon.com/images/M/MV5BMTU2OTcyOTE3MF5BMl5BanBnXkFtZTgwNTg5Mjc1MjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Le+passé&apikey=ebc63de1
+Title: Le passé, Poster: https://m.media-amazon.com/images/M/MV5BMzhjNDUxOTMtMmFiOS00OGI0LTgyN2YtNTIxNDg2OTFhZTA3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+grande+bellezza&apikey=ebc63de1
+Title: La grande bellezza, Poster: https://m.media-amazon.com/images/M/MV5BN2ZiM2NhZDQtZDE0OS00NDY1LTk5NmYtYTU3ZTI3YTI0MzdjXkEyXkFqcGdeQXVyMjA5NjI0MjA@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Lunchbox&apikey=ebc63de1
+Title: The Lunchbox, Poster: https://m.media-amazon.com/images/M/MV5BMTUwMzc1NjIzMV5BMl5BanBnXkFtZTgwODUyMTIxMTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Vicky+Donor&apikey=ebc63de1
+Title: Vicky Donor, Poster: https://m.media-amazon.com/images/M/MV5BNjE5ZTc4YTUtOGNlYi00NmM2LTlhY2EtZjM4MzRmMzg5MTBlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Big+Hero+6&apikey=ebc63de1
+Title: Big Hero 6, Poster: https://m.media-amazon.com/images/M/MV5BYjQ3YzUyOGQtNjdlYS00YmRhLWIyOWYtMGQ3YjkwMjJiYzRjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=About+Time&apikey=ebc63de1
+Title: About Time, Poster: https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_SX300.jpg
+https://www.omdbapi.com/?t=English+Vinglish&apikey=ebc63de1
+Title: English Vinglish, Poster: https://m.media-amazon.com/images/M/MV5BMmMwYzZhNTgtMzhhZC00N2FmLTlmY2MtZWJmZWE2MjJhMGE4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kaze+tachinu&apikey=ebc63de1
+Title: Kaze tachinu, Poster: https://m.media-amazon.com/images/M/MV5BMjJlZTJmMGQtNjQ1Yy00MjhjLWE3NzMtZDVlNmMwMzVlZTM1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Toy+Story+4&apikey=ebc63de1
+Title: Toy Story 4, Poster: https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+migliore+offerta&apikey=ebc63de1
+Movie 'La migliore offerta' not found in OMDb.
+https://www.omdbapi.com/?t=Moonrise+Kingdom&apikey=ebc63de1
+Title: Moonrise Kingdom, Poster: https://m.media-amazon.com/images/M/MV5BMTEwMTc3NDkzOTJeQTJeQWpwZ15BbWU3MDI4NTAwNzc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=How+to+Train+Your+Dragon+2&apikey=ebc63de1
+Title: How to Train Your Dragon 2, Poster: https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Big+Short&apikey=ebc63de1
+Title: The Big Short, Poster: https://m.media-amazon.com/images/M/MV5BZDZkNDQ3YjktYjBlZC00YTY1LTgxOGYtY2RhMWFhZmNkZGY3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kokuhaku&apikey=ebc63de1
+Title: Kokuhaku, Poster: https://m.media-amazon.com/images/M/MV5BNjdmZGVhZGYtYWExYi00Mjk4LWI2NzQtNDBjNTVmNDM2N2QyXkEyXkFqcGdeQXVyNzUxMjcxNjY@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ang-ma-reul+bo-at-da&apikey=ebc63de1
+Movie 'Ang-ma-reul bo-at-da' not found in OMDb.
+https://www.omdbapi.com/?t=The+Girl+with+the+Dragon+Tattoo&apikey=ebc63de1
+Title: The Girl with the Dragon Tattoo, Poster: https://m.media-amazon.com/images/M/MV5BMTczNDk4NTQ0OV5BMl5BanBnXkFtZTcwNDAxMDgxNw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Captain+Phillips&apikey=ebc63de1
+Title: Captain Phillips, Poster: https://m.media-amazon.com/images/M/MV5BMWYyNjI3ZjEtNGE5ZS00MDgxLWIzNGEtZTgzNDVlZjZjYWU5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ajeossi&apikey=ebc63de1
+Movie 'Ajeossi' not found in OMDb.
+https://www.omdbapi.com/?t=Straight+Outta+Compton&apikey=ebc63de1
+Title: Straight Outta Compton, Poster: https://m.media-amazon.com/images/M/MV5BMTA5MzkyMzIxNjJeQTJeQWpwZ15BbWU4MDU0MDk0OTUx._V1_SX300.jpg
+https://www.omdbapi.com/?t=Madeo&apikey=ebc63de1
+Movie 'Madeo' not found in OMDb.
+https://www.omdbapi.com/?t=Chugyeokja&apikey=ebc63de1
+Movie 'Chugyeokja' not found in OMDb.
+https://www.omdbapi.com/?t=The+Hobbit:+The+Desolation+of+Smaug&apikey=ebc63de1
+Title: The Hobbit: The Desolation of Smaug, Poster: https://m.media-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Das+weiße+Band+-+Eine+deutsche+Kindergeschichte&apikey=ebc63de1
+Movie 'Das weiße Band - Eine deutsche Kindergeschichte' not found in OMDb.
+https://www.omdbapi.com/?t=Män+som+hatar+kvinnor&apikey=ebc63de1
+Movie 'Män som hatar kvinnor' not found in OMDb.
+https://www.omdbapi.com/?t=The+Trial+of+the+Chicago+7&apikey=ebc63de1
+Title: The Trial of the Chicago 7, Poster: https://m.media-amazon.com/images/M/MV5BZjY2ZGFlOTgtOGQ1MS00YWJhLWIyZjQtNWNmNTQ0YTk0MTZjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Druk&apikey=ebc63de1
+Title: Druk, Poster: N/A
+https://www.omdbapi.com/?t=The+Fighter&apikey=ebc63de1
+Title: The Fighter, Poster: https://m.media-amazon.com/images/M/MV5BMTM0ODk3MjM1MV5BMl5BanBnXkFtZTcwNzc1MDIwNA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Taken&apikey=ebc63de1
+Title: Taken, Poster: https://m.media-amazon.com/images/M/MV5BYTAxNTY2NjMtYjk5Yy00Nzg4LTkyMmItYmMzMDM2OWQ1ZGQ3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Boy+in+the+Striped+Pyjamas&apikey=ebc63de1
+Movie 'The Boy in the Striped Pyjamas' not found in OMDb.
+https://www.omdbapi.com/?t=Once&apikey=ebc63de1
+Title: Once, Poster: https://m.media-amazon.com/images/M/MV5BYmFmZmRkNzYtMTcyNy00NjY3LTkyNTUtNGExZjViNGFhZDdkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Hobbit:+An+Unexpected+Journey&apikey=ebc63de1
+Title: The Hobbit: An Unexpected Journey, Poster: https://m.media-amazon.com/images/M/MV5BMTcwNTE4MTUxMl5BMl5BanBnXkFtZTcwMDIyODM4OA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Auf+der+anderen+Seite&apikey=ebc63de1
+Title: Auf der anderen Seite ist das Gras viel grüner, Poster: https://m.media-amazon.com/images/M/MV5BOWUzMWRhYjktODBiZC00YWJlLThmZjQtYzlmMDYxYTZiMDIzXkEyXkFqcGdeQXVyMjQ3NzUxOTM@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Atonement&apikey=ebc63de1
+Title: Atonement, Poster: https://m.media-amazon.com/images/M/MV5BZmQ5ZjZlMzMtODA1ZS00NTNiLWIzOTYtOTQyYjQ2YWQxMTA1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Drive&apikey=ebc63de1
+Title: Drive, Poster: https://m.media-amazon.com/images/M/MV5BYTFmNTFlOTAtNzEyNi00MWU2LTg3MGEtYjA2NWY3MDliNjlkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=American+Gangster&apikey=ebc63de1
+Title: American Gangster, Poster: https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Avatar&apikey=ebc63de1
+Title: Avatar, Poster: https://m.media-amazon.com/images/M/MV5BMDEzMmQwZjctZWU2My00MWNlLWE0NjItMDJlYTRlNGJiZjcyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mr.+Nobody&apikey=ebc63de1
+Title: Mr. Nobody, Poster: https://m.media-amazon.com/images/M/MV5BMTg4ODkzMDQ3Nl5BMl5BanBnXkFtZTgwNTEwMTkxMDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Apocalypto&apikey=ebc63de1
+Title: Apocalypto, Poster: https://m.media-amazon.com/images/M/MV5BMzJkNzI3ZmEtZmRhOS00YTM1LWI3OTAtZmVjZmNkODIxNmFmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Little+Miss+Sunshine&apikey=ebc63de1
+Title: Little Miss Sunshine, Poster: https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hot+Fuzz&apikey=ebc63de1
+Title: Hot Fuzz, Poster: https://m.media-amazon.com/images/M/MV5BYjFkZTkzZTQtNjM1ZS00M2EyLWE3MTAtMmY5Yzk0NTc0NDc3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Curious+Case+of+Benjamin+Button&apikey=ebc63de1
+Title: The Curious Case of Benjamin Button, Poster: https://m.media-amazon.com/images/M/MV5BYjIyNDExOWItM2Y4ZC00NmY3LWFlN2ItYTJlZDQ1NTJlZTUwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Veer-Zaara&apikey=ebc63de1
+Title: Veer-Zaara, Poster: https://m.media-amazon.com/images/M/MV5BMmI0ODNhYmEtOWM4My00MmFlLTk4ZmEtYmQ2MmNjODcxNzU2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Adams+æbler&apikey=ebc63de1
+Movie 'Adams æbler' not found in OMDb.
+https://www.omdbapi.com/?t=Pride+&+Prejudice&apikey=ebc63de1
+Title: Pride, Poster: https://m.media-amazon.com/images/M/MV5BMTU2OTcyOTE3MF5BMl5BanBnXkFtZTgwNTg5Mjc1MjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+World's+Fastest+Indian&apikey=ebc63de1
+Title: The World's Fastest Indian, Poster: https://m.media-amazon.com/images/M/MV5BN2IwYTI1MzMtYWYzMC00Y2I5LWJlODUtMTQwMTYwNjY4MTg3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Tôkyô+goddofâzâzu&apikey=ebc63de1
+Movie 'Tôkyô goddofâzâzu' not found in OMDb.
+https://www.omdbapi.com/?t=Serenity&apikey=ebc63de1
+Title: Serenity, Poster: https://m.media-amazon.com/images/M/MV5BZWYwN2M1NWItMWI0YS00ZmJjLTk1Y2QtZjIxYmNhNGZkZDcwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Walk+the+Line&apikey=ebc63de1
+Title: Walk the Line, Poster: https://m.media-amazon.com/images/M/MV5BMjIyOTU3MjUxOF5BMl5BanBnXkFtZTcwMTQ0NjYzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ondskan&apikey=ebc63de1
+Title: Möte med ondskan, Poster: https://m.media-amazon.com/images/M/MV5BZGYyMTgyMjgtY2VkYi00ZjQyLTllYmItNzBjZDBkNDBiZGNhXkEyXkFqcGdeQXVyMjI3MDczMjI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Notebook&apikey=ebc63de1
+Title: The Notebook, Poster: https://m.media-amazon.com/images/M/MV5BZjE0ZjgzMzYtMTAxYi00NGMzLThmZDktNzFlMzA2MWRmYWQ0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Diarios+de+motocicleta&apikey=ebc63de1
+Movie 'Diarios de motocicleta' not found in OMDb.
+https://www.omdbapi.com/?t=Lilja+4-ever&apikey=ebc63de1
+Movie 'Lilja 4-ever' not found in OMDb.
+https://www.omdbapi.com/?t=Les+triplettes+de+Belleville&apikey=ebc63de1
+Movie 'Les triplettes de Belleville' not found in OMDb.
+https://www.omdbapi.com/?t=Gongdong+gyeongbi+guyeok+JSA&apikey=ebc63de1
+Movie 'Gongdong gyeongbi guyeok JSA' not found in OMDb.
+https://www.omdbapi.com/?t=The+Count+of+Monte+Cristo&apikey=ebc63de1
+Title: The Count of Monte Cristo, Poster: https://m.media-amazon.com/images/M/MV5BYjQ3NWUxNDMtNGUyYS00M2E4LThmYjgtZmQ3YTU4ZWZlNTk0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Waking+Life&apikey=ebc63de1
+Title: Waking Life, Poster: https://m.media-amazon.com/images/M/MV5BMjlhZDI0MjYtNjcyYi00YzI1LThiNjktN2Y4ZDNkY2NhNmYzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Remember+the+Titans&apikey=ebc63de1
+Title: Remember the Titans, Poster: https://m.media-amazon.com/images/M/MV5BZWY0NzgxMWQtMjM4NC00MjRiLWE0YjctYTFiNjA2NTNkZGY1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Wo+hu+cang+long&apikey=ebc63de1
+Movie 'Wo hu cang long' not found in OMDb.
+https://www.omdbapi.com/?t=Todo+sobre+mi+madre&apikey=ebc63de1
+Movie 'Todo sobre mi madre' not found in OMDb.
+https://www.omdbapi.com/?t=Cast+Away&apikey=ebc63de1
+Title: Cast Away, Poster: https://m.media-amazon.com/images/M/MV5BOGNjNDI5ZGQtZjRjMy00NzQyLWFiYzQtYjcwNjM3ZDYwNThhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Boondock+Saints&apikey=ebc63de1
+Title: The Boondock Saints, Poster: https://m.media-amazon.com/images/M/MV5BMzIzYjE3YmMtYjdjOC00NTk5LWI0N2MtZDliYjUxNGYyNGZhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Insider&apikey=ebc63de1
+Title: The Insider, Poster: https://m.media-amazon.com/images/M/MV5BZGY3ZjEyODAtNjAwMC00ZTEwLTg3NDctYzMzYTZkMjBmZDQwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=October+Sky&apikey=ebc63de1
+Title: October Sky, Poster: https://m.media-amazon.com/images/M/MV5BMDU0M2I3ODUtZDAyYy00NThhLWIwNjQtZGNmNTNjZDIxODM4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Shrek&apikey=ebc63de1
+Title: Shrek, Poster: https://m.media-amazon.com/images/M/MV5BN2FkMTRkNTUtYTI0NC00ZjI4LWI5MzUtMDFmOGY0NmU2OGY1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Titanic&apikey=ebc63de1
+Title: Titanic, Poster: https://m.media-amazon.com/images/M/MV5BYzYyN2FiZmUtYWYzMy00MzViLWJkZTMtOGY1ZjgzNWMwN2YxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hana-bi&apikey=ebc63de1
+Movie 'Hana-bi' not found in OMDb.
+https://www.omdbapi.com/?t=Gattaca&apikey=ebc63de1
+Title: Gattaca, Poster: https://m.media-amazon.com/images/M/MV5BZjQxNTc3YzQtZDA5ZC00MmM5LWE3NGYtMGE0Yjk3MDYwODVlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Game&apikey=ebc63de1
+Title: The Game, Poster: https://m.media-amazon.com/images/M/MV5BNGUzNzQwNmMtNzI3Mi00ZDIwLWJlM2ItMTA5N2Q2ZDMxMjJiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Breaking+the+Waves&apikey=ebc63de1
+Title: Breaking the Waves, Poster: https://m.media-amazon.com/images/M/MV5BYTdjYjg4MTAtMzU4Ny00ODVkLTlhZDItOThiMDBhODI4MTVhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ed+Wood&apikey=ebc63de1
+Title: Ed Wood, Poster: https://m.media-amazon.com/images/M/MV5BOWU4NzlkZGEtODNmYi00YTVhLWJhYjAtZjBkN2Q1Y2U5NjE4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=What's+Eating+Gilbert+Grape&apikey=ebc63de1
+Title: What's Eating Gilbert Grape, Poster: https://m.media-amazon.com/images/M/MV5BNWM5NWI1OTQtMTJiOS00ZDMxLWE1ODQtZjQ4MDc4OGE4ZjQyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Tombstone&apikey=ebc63de1
+Title: Tombstone, Poster: https://m.media-amazon.com/images/M/MV5BNmQyMzlhNjUtMzRjYS00MWY4LWI5MDAtZGU1MWE2M2E0OGMxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Sandlot&apikey=ebc63de1
+Title: The Sandlot, Poster: https://m.media-amazon.com/images/M/MV5BNTc5YzE5OTAtMmY3YS00ODk4LTgzODItZGEzNmMxMDhhNWUwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Remains+of+the+Day&apikey=ebc63de1
+Title: The Remains of the Day, Poster: https://m.media-amazon.com/images/M/MV5BOWY5MTFkMmEtNDE2Zi00NzU4LWE2OWMtZGE4ZWY1NmIzN2I0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Naked&apikey=ebc63de1
+Title: Naked, Poster: https://m.media-amazon.com/images/M/MV5BNDM1ZjQ0ZGQtZTdhMC00MmM3LWI5NTMtMzhjZWUwNzZiYzA3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Fugitive&apikey=ebc63de1
+Title: The Fugitive, Poster: https://m.media-amazon.com/images/M/MV5BM2RjMjEwODUtYTE4OC00MzhkLThjMjItZjYyZjk3YzA4YWUxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=A+Bronx+Tale&apikey=ebc63de1
+Title: A Bronx Tale, Poster: https://m.media-amazon.com/images/M/MV5BZTZiZWFjY2UtMDYzOS00N2JhLTk5YmYtMGQ1Yjk5ZWYzZjI4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Batman:+Mask+of+the+Phantasm&apikey=ebc63de1
+Title: Batman: Mask of the Phantasm, Poster: https://m.media-amazon.com/images/M/MV5BYjYwN2ZmZWYtMTdlNC00ZDQxLWEyNmUtZDI5Yjk5MzQ2N2Y3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Lat+sau+san+taam&apikey=ebc63de1
+Movie 'Lat sau san taam' not found in OMDb.
+https://www.omdbapi.com/?t=Night+on+Earth&apikey=ebc63de1
+Title: Night on Earth, Poster: https://m.media-amazon.com/images/M/MV5BYmEyYjE0NjgtNTFmMy00ZmY1LTg2MWUtYTU4MjdmYWJmYzMyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+double+vie+de+Véronique&apikey=ebc63de1
+Movie 'La double vie de Véronique' not found in OMDb.
+https://www.omdbapi.com/?t=Boyz+n+the+Hood&apikey=ebc63de1
+Title: Boyz n the Hood, Poster: https://m.media-amazon.com/images/M/MV5BYzZhNDcyYTctOWU1My00ZmUzLWFmNmItZTIwY2JkNjVkZTdmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Misery&apikey=ebc63de1
+Title: Misery, Poster: https://m.media-amazon.com/images/M/MV5BNzY0ODQ3MTMxN15BMl5BanBnXkFtZTgwMDkwNTg4NjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Awakenings&apikey=ebc63de1
+Title: Awakenings, Poster: https://m.media-amazon.com/images/M/MV5BZDUzOGQ4YTctNTY1OS00M2UzLWFjNzYtMGNlN2E5NDA2MGVkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Majo+no+takkyûbin&apikey=ebc63de1
+Movie 'Majo no takkyûbin' not found in OMDb.
+https://www.omdbapi.com/?t=Glory&apikey=ebc63de1
+Title: Glory, Poster: https://m.media-amazon.com/images/M/MV5BOTA1NDcyOGMtYTc0Zi00OTQ0LTllZTEtMTIxZDcxMWYxZTVhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dip+huet+seung+hung&apikey=ebc63de1
+Movie 'Dip huet seung hung' not found in OMDb.
+https://www.omdbapi.com/?t=Back+to+the+Future+Part+II&apikey=ebc63de1
+Title: Back to the Future Part II, Poster: https://m.media-amazon.com/images/M/MV5BMTNlOTRmOTEtMTAyMi00NjFiLTk3NDMtNWI0YzA3ZTZlYjZiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mississippi+Burning&apikey=ebc63de1
+Title: Mississippi Burning, Poster: https://m.media-amazon.com/images/M/MV5BZDgwNTljYmMtYmQyNi00MmEwLTk0NzMtZDJmZDIzZmQ4MzQ2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Predator&apikey=ebc63de1
+Title: Predator, Poster: https://m.media-amazon.com/images/M/MV5BOWEzMDI0MTUtMjQ0Yy00MGRhLWI4YjAtZTgzZTM3NTYxZGJkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Evil+Dead+II&apikey=ebc63de1
+Title: Evil Dead II, Poster: https://m.media-amazon.com/images/M/MV5BMGMxMWVhMzAtYWRlOS00YzY1LTlkYTQtYjU5ZDM4MGI1YWFjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ferris+Bueller's+Day+Off&apikey=ebc63de1
+Title: Ferris Bueller's Day Off, Poster: https://m.media-amazon.com/images/M/MV5BZWYwMjUxNjMtMzE0MC00NDM3LWIxMmQtYmEyNWVjNjdlZGZjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Down+by+Law&apikey=ebc63de1
+Title: Down by Law, Poster: https://m.media-amazon.com/images/M/MV5BNjAxNDRhM2UtYTRkNS00YzlkLTkxZDMtYzg4MDAyZGQwM2Q4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Goonies&apikey=ebc63de1
+Title: The Goonies, Poster: https://m.media-amazon.com/images/M/MV5BMjE1OWU4ODEtZmEzMC00NTcwLWFlMWUtYjhlNzExOTIxYzVlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Color+Purple&apikey=ebc63de1
+Title: The Color Purple, Poster: https://m.media-amazon.com/images/M/MV5BM2MyZjBlMGItNThkMi00YWExLThlZmUtZmI2MGM3YWE3YTY1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Breakfast+Club&apikey=ebc63de1
+Title: The Breakfast Club, Poster: https://m.media-amazon.com/images/M/MV5BZTZiMGU1MWMtNjk0Yi00ZjNjLTljMDEtMDhkNGE2OWY3YzZiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Killing+Fields&apikey=ebc63de1
+Title: The Killing Fields, Poster: https://m.media-amazon.com/images/M/MV5BYWFiNThiZjUtMzMxZS00MmY5LWE3NzYtYjU5NjAwOTEwZGMyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ghostbusters&apikey=ebc63de1
+Title: Ghostbusters, Poster: https://m.media-amazon.com/images/M/MV5BMGI0Yjg2ODAtNDYzNi00Njc2LTlkMmMtMmRmYWI5MDE4ZGRkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Right+Stuff&apikey=ebc63de1
+Title: The Right Stuff, Poster: https://m.media-amazon.com/images/M/MV5BZmNiMWIxZDEtYWE0Zi00YzU5LTk4NzctNmE2YThiMGUzYzlkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+King+of+Comedy&apikey=ebc63de1
+Title: The King of Comedy, Poster: https://m.media-amazon.com/images/M/MV5BYTQxNGUwNmUtMDJhYy00ZjM1LWFjZjQtYmI5ZGY4YTZmZWQyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=E.T.+the+Extra-Terrestrial&apikey=ebc63de1
+Title: E.T. the Extra-Terrestrial, Poster: https://m.media-amazon.com/images/M/MV5BYTNhNmY0YWMtMTczYi00MTA0LThhMmUtMTIxYzE0Y2QwMzRlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kramer+vs.+Kramer&apikey=ebc63de1
+Title: Kramer vs. Kramer, Poster: https://m.media-amazon.com/images/M/MV5BNTJmYjYwZDMtYmU5MS00OWM0LWIxZTctZTcxODJkOTU4ZDMxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Days+of+Heaven&apikey=ebc63de1
+Title: Days of Heaven, Poster: https://m.media-amazon.com/images/M/MV5BOWM5OTcwMjMtMDk0OC00N2M3LTlmYzQtY2Q5ZmZmNjIyOGViXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Outlaw+Josey+Wales&apikey=ebc63de1
+Title: The Outlaw Josey Wales, Poster: https://m.media-amazon.com/images/M/MV5BMjIxNDYxMTk2MF5BMl5BanBnXkFtZTgwMjQxNjU3MTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Man+Who+Would+Be+King&apikey=ebc63de1
+Title: The Man Who Would Be King, Poster: https://m.media-amazon.com/images/M/MV5BYTE2MGQyYWItZTQxMy00MzVjLTljZjItMWE0MjJhMzZiZTkxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Conversation&apikey=ebc63de1
+Title: The Conversation, Poster: https://m.media-amazon.com/images/M/MV5BOTY4OTVmMzgtNTBkYi00NjI1LWIzOWItNGIwNTM1ZTEzMzc5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+planète+sauvage&apikey=ebc63de1
+Movie 'La planète sauvage' not found in OMDb.
+https://www.omdbapi.com/?t=The+Day+of+the+Jackal&apikey=ebc63de1
+Title: The Day of the Jackal, Poster: https://m.media-amazon.com/images/M/MV5BYzlmNDQ2YmUtOWZiYi00MDA1LTljOWEtNjYxNGI3ZDMzOThiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Badlands&apikey=ebc63de1
+Title: Badlands, Poster: https://m.media-amazon.com/images/M/MV5BN2U3ZjE1ZjUtYTRkMy00NTJiLTgyNzktMmE1OTUzYmRlOTUzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Cabaret&apikey=ebc63de1
+Title: Cabaret, Poster: https://m.media-amazon.com/images/M/MV5BZGExNGNlNmQtZTlmNy00MmZkLWE1MjgtZGYwODY0ZDI1YzMwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Willy+Wonka+&+the+Chocolate+Factory&apikey=ebc63de1
+Title: Willy Wonka & the Chocolate Factory, Poster: https://m.media-amazon.com/images/M/MV5BNzllNzlkNzYtZTEzZi00ODMwLWFlYTctZDE5Mzk0NTM1NmViXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Midnight+Cowboy&apikey=ebc63de1
+Title: Midnight Cowboy, Poster: https://m.media-amazon.com/images/M/MV5BY2QyNDQ4ZGQtOTFlYy00NDVjLWI5NTEtNTBmYTA5OTI0ODYyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Wait+Until+Dark&apikey=ebc63de1
+Title: Wait Until Dark, Poster: https://m.media-amazon.com/images/M/MV5BMjJiMDRjNWUtZTVhYS00YTU5LWI2OTktZWI4YzY2YjY1MTc5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Guess+Who's+Coming+to+Dinner&apikey=ebc63de1
+Title: Guess Who's Coming to Dinner, Poster: https://m.media-amazon.com/images/M/MV5BNmMwNjRiYTUtNjM5Yy00ZDk2LWJiZjEtYjRjMzVmYmM1OGQ5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Bonnie+and+Clyde&apikey=ebc63de1
+Title: Bonnie and Clyde, Poster: https://m.media-amazon.com/images/M/MV5BYWI3ZmM1NmEtMDk4Yi00MzYzLTk0MDctYWJlZjY4MGViNDFiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=My+Fair+Lady&apikey=ebc63de1
+Title: My Fair Lady, Poster: https://m.media-amazon.com/images/M/MV5BNmMxZmFjZmQtMDRiOC00MDQxLTlhNDktZTkxMmRiYWM1ZDUzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mary+Poppins&apikey=ebc63de1
+Title: Mary Poppins, Poster: https://m.media-amazon.com/images/M/MV5BNThiNjgzMTYtZjUzMC00YTVlLTg4MDItMmFjMDIwYjg4ZDAwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Longest+Day&apikey=ebc63de1
+Title: The Longest Day, Poster: https://m.media-amazon.com/images/M/MV5BYmM0NjAzZWUtMGZmYi00Nzc4LTk4Y2YtOWQ1NmE4ZTlkOTFmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Jules+et+Jim&apikey=ebc63de1
+Movie 'Jules et Jim' not found in OMDb.
+https://www.omdbapi.com/?t=The+Innocents&apikey=ebc63de1
+Title: The Innocents, Poster: https://m.media-amazon.com/images/M/MV5BMGJhMDFhYjMtY2QwOC00ZjBhLWFmZGYtZWI1NzI2MjAxNmQ4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=À+bout+de+souffle&apikey=ebc63de1
+Title: À bout de souffle, Poster: https://m.media-amazon.com/images/M/MV5BMDZlM2Q2YzUtZWZlNS00NTRjLTkwMjEtYzk1M2RiZDE3MTNhXkEyXkFqcGdeQXVyMTI3NDU2MDM@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Red+River&apikey=ebc63de1
+Title: Red River, Poster: https://m.media-amazon.com/images/M/MV5BMTM2NDA3NTQ2OF5BMl5BanBnXkFtZTcwODUzNzU2NA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Key+Largo&apikey=ebc63de1
+Title: Key Largo, Poster: https://m.media-amazon.com/images/M/MV5BMmVmNjY0MDQtMzE5Zi00ZmEzLTg3MzUtNTg1MWE0YWNiNzQ1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=To+Have+and+Have+Not&apikey=ebc63de1
+Title: To Have and Have Not, Poster: https://m.media-amazon.com/images/M/MV5BZmJmNmI2NzctNDMzZi00NDI0LTkyZWQtNzczMGM5MGQ2MWEwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Shadow+of+a+Doubt&apikey=ebc63de1
+Title: Shadow of a Doubt, Poster: https://m.media-amazon.com/images/M/MV5BMDFhMzBlYzctMDhkOC00OTFiLTgyYzEtZTBkNmQzNGRlMmNlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Stagecoach&apikey=ebc63de1
+Title: Stagecoach, Poster: https://m.media-amazon.com/images/M/MV5BZmQ5ZGIyMjYtMjczYy00N2EzLWE3ZjMtNmI4ZDc3MDVmOWEwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Lady+Vanishes&apikey=ebc63de1
+Title: The Lady Vanishes, Poster: https://m.media-amazon.com/images/M/MV5BMzQxY2M5ODUtYjQ5ZS00M2NmLWI2OTMtYzY3ZWJmZjcyNDIwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Bringing+Up+Baby&apikey=ebc63de1
+Title: Bringing Up Baby, Poster: https://m.media-amazon.com/images/M/MV5BNDA5M2NlYjAtYzQ3OC00ZWM0LWJjYWYtMTU5N2NhNGY3ZmZmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Bride+of+Frankenstein&apikey=ebc63de1
+Title: Bride of Frankenstein, Poster: https://m.media-amazon.com/images/M/MV5BNTExZmY1YjAtMjc1MS00NGZhLWJjMGEtYjk3MTQyZTNmNGE2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Duck+Soup&apikey=ebc63de1
+Title: Duck Soup, Poster: https://m.media-amazon.com/images/M/MV5BNGE5Mzg3NzMtZmI3My00ZWQwLThjYjYtOTZmZjQyNDVjMjIwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Scarface:+The+Shame+of+the+Nation&apikey=ebc63de1
+Movie 'Scarface: The Shame of the Nation' not found in OMDb.
+https://www.omdbapi.com/?t=Frankenstein&apikey=ebc63de1
+Title: Frankenstein, Poster: https://m.media-amazon.com/images/M/MV5BNDhjNjgxN2EtZGIxZC00NDQzLThmOWMtZDgwNmYwZDQ3MzZiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Roma&apikey=ebc63de1
+Title: Roma, Poster: https://m.media-amazon.com/images/M/MV5BMTU0OTc3ODk4Ml5BMl5BanBnXkFtZTgwMzM4NzI5NjM@._V1_SX300.jpg
+https://www.omdbapi.com/?t=God's+Own+Country&apikey=ebc63de1
+Title: God's Own Country, Poster: https://m.media-amazon.com/images/M/MV5BMTRiZjBiZWEtZDgzMy00M2M2LTgxOTMtYzgwMTVjNGZiNzkyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Deadpool+2&apikey=ebc63de1
+Title: Deadpool 2, Poster: https://m.media-amazon.com/images/M/MV5BNGY3N2ZhYmMtYTlmYi00ZWIzLWJiZWMtMjgxMjljYTk3MDAwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Wind+River&apikey=ebc63de1
+Title: Wind River, Poster: https://m.media-amazon.com/images/M/MV5BMTUyMjU1OTUwM15BMl5BanBnXkFtZTgwMDg1NDQ2MjI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Get+Out&apikey=ebc63de1
+Title: Get Out, Poster: https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mission:+Impossible+-+Fallout&apikey=ebc63de1
+Title: Mission: Impossible - Fallout, Poster: https://m.media-amazon.com/images/M/MV5BMTk3NDY5MTU0NV5BMl5BanBnXkFtZTgwNDI3MDE1NTM@._V1_SX300.jpg
+https://www.omdbapi.com/?t=En+man+som+heter+Ove&apikey=ebc63de1
+Movie 'En man som heter Ove' not found in OMDb.
+https://www.omdbapi.com/?t=What+We+Do+in+the+Shadows&apikey=ebc63de1
+Title: What We Do in the Shadows, Poster: https://m.media-amazon.com/images/M/MV5BNGFhNjkyZDYtOTc4Yi00OWM4LTg4ZTktNjIzNDA5NGE5YTYwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Omoide+no+Mânî&apikey=ebc63de1
+Movie 'Omoide no Mânî' not found in OMDb.
+https://www.omdbapi.com/?t=The+Theory+of+Everything&apikey=ebc63de1
+Title: The Theory of Everything, Poster: https://m.media-amazon.com/images/M/MV5BMTAwMTU4MDA3NDNeQTJeQWpwZ15BbWU4MDk4NTMxNTIx._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kingsman:+The+Secret+Service&apikey=ebc63de1
+Title: Kingsman: The Secret Service, Poster: https://m.media-amazon.com/images/M/MV5BODk1MTYwNTAtYmI5Zi00OWYyLWE0MzQtOWE4NDIxZmU2MjMwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Fault+in+Our+Stars&apikey=ebc63de1
+Title: The Fault in Our Stars, Poster: https://m.media-amazon.com/images/M/MV5BYTA4ODg5YWUtYmZiYy00Y2M4LWE0NjEtODE5MzhkYmJmZGEwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Me+and+Earl+and+the+Dying+Girl&apikey=ebc63de1
+Title: Me and Earl and the Dying Girl, Poster: https://m.media-amazon.com/images/M/MV5BNTA1NzUzNjY4MV5BMl5BanBnXkFtZTgwNDU0MDI0NTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Birdman+or+(The+Unexpected+Virtue+of+Ignorance)&apikey=ebc63de1
+Title: Birdman or (The Unexpected Virtue of Ignorance), Poster: https://m.media-amazon.com/images/M/MV5BODAzNDMxMzAxOV5BMl5BanBnXkFtZTgwMDMxMjA4MjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+vie+d'Adèle&apikey=ebc63de1
+Movie 'La vie d'Adèle' not found in OMDb.
+https://www.omdbapi.com/?t=Kai+po+che!&apikey=ebc63de1
+Title: Kai Po Che, Poster: https://m.media-amazon.com/images/M/MV5BMTgwNTAwMjEzMF5BMl5BanBnXkFtZTcwNzMzODY4OA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Broken+Circle+Breakdown&apikey=ebc63de1
+Title: The Broken Circle Breakdown, Poster: https://m.media-amazon.com/images/M/MV5BMTQzMzg2Nzg2MF5BMl5BanBnXkFtZTgwNjUzNzIzMDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Captain+America:+The+Winter+Soldier&apikey=ebc63de1
+Title: Captain America: The Winter Soldier, Poster: https://m.media-amazon.com/images/M/MV5BNWY1NjFmNDItZDhmOC00NjI1LWE0ZDItMTM0MjBjZThiOTQ2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Rockstar&apikey=ebc63de1
+Title: Rockstar, Poster: https://m.media-amazon.com/images/M/MV5BOTc3NzAxMjg4M15BMl5BanBnXkFtZTcwMDc2ODQwNw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Nebraska&apikey=ebc63de1
+Title: Nebraska, Poster: https://m.media-amazon.com/images/M/MV5BYTgyNzRhMTQtZWUxZi00YzFmLTlhYTItNzY5ZDY2ZjdlYjM1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Wreck-It+Ralph&apikey=ebc63de1
+Title: Wreck-It Ralph, Poster: https://m.media-amazon.com/images/M/MV5BNzMxNTExOTkyMF5BMl5BanBnXkFtZTcwMzEyNDc0OA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Le+Petit+Prince&apikey=ebc63de1
+Title: Le Petit Prince, Poster: https://m.media-amazon.com/images/M/MV5BOTg5NjJjOGYtYzg4Yy00OWJkLThmNjItZjBlNGYzZDc5MDI3XkEyXkFqcGdeQXVyOTA2ODk4OTI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Detachment&apikey=ebc63de1
+Title: Detachment, Poster: https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Midnight+in+Paris&apikey=ebc63de1
+Title: Midnight in Paris, Poster: https://m.media-amazon.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Lego+Movie&apikey=ebc63de1
+Title: The Lego Movie, Poster: https://m.media-amazon.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Gravity&apikey=ebc63de1
+Title: Gravity, Poster: https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Star+Trek+Into+Darkness&apikey=ebc63de1
+Title: Star Trek Into Darkness, Poster: https://m.media-amazon.com/images/M/MV5BMTk2NzczOTgxNF5BMl5BanBnXkFtZTcwODQ5ODczOQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Beasts+of+No+Nation&apikey=ebc63de1
+Title: Beasts of No Nation, Poster: https://m.media-amazon.com/images/M/MV5BMTYwMzMzMDI0NF5BMl5BanBnXkFtZTgwNDQ3NjI3NjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Social+Network&apikey=ebc63de1
+Title: The Social Network, Poster: https://m.media-amazon.com/images/M/MV5BMjlkNTE5ZTUtNGEwNy00MGVhLThmZjMtZjU1NDE5Zjk1NDZkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=X:+First+Class&apikey=ebc63de1
+Movie 'X: First Class' not found in OMDb.
+https://www.omdbapi.com/?t=The+Hangover&apikey=ebc63de1
+Title: The Hangover, Poster: https://m.media-amazon.com/images/M/MV5BNDI2MzBhNzgtOWYyOS00NDM2LWE0OGYtOGQ0M2FjMTI2NTllXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Skyfall&apikey=ebc63de1
+Title: Skyfall, Poster: https://m.media-amazon.com/images/M/MV5BNjAzMWNkODUtM2FlMi00NzgyLWJhMGUtMWEyNDYyZGFiN2RlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Silver+Linings+Playbook&apikey=ebc63de1
+Title: Silver Linings Playbook, Poster: https://m.media-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Argo&apikey=ebc63de1
+Title: Argo, Poster: https://m.media-amazon.com/images/M/MV5BM2QyMGUyZTEtMjE4Yi00M2RiLTgwN2QtZDMxZDNiMTFkMTFjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=(500)+Days+of+Summer&apikey=ebc63de1
+Title: Not a Love Story: Making (500) Days of Summer, Poster: N/A
+https://www.omdbapi.com/?t=Harry+Potter+and+the+Deathly+Hallows:+Part+1&apikey=ebc63de1
+Title: Harry Potter and the Deathly Hallows: Part 1, Poster: https://m.media-amazon.com/images/M/MV5BMTQ2OTE1Mjk0N15BMl5BanBnXkFtZTcwODE3MDAwNA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Gake+no+ue+no+Ponyo&apikey=ebc63de1
+Movie 'Gake no ue no Ponyo' not found in OMDb.
+https://www.omdbapi.com/?t=Frost/Nixon&apikey=ebc63de1
+Title: Frost/Nixon, Poster: https://m.media-amazon.com/images/M/MV5BMTU2NDU2NDQtMTlhNC00ZGI3LWIzOGItNzQ3OTk0MjgyMGYzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Papurika&apikey=ebc63de1
+Movie 'Papurika' not found in OMDb.
+https://www.omdbapi.com/?t=Changeling&apikey=ebc63de1
+Title: Changeling, Poster: https://m.media-amazon.com/images/M/MV5BOTA1Mzg3NjIxNV5BMl5BanBnXkFtZTcwNzU2NTc5MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Flipped&apikey=ebc63de1
+Title: Flipped, Poster: https://m.media-amazon.com/images/M/MV5BMTU2NjQ1Nzc4MF5BMl5BanBnXkFtZTcwNTM0NDk1Mw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Toki+o+kakeru+shôjo&apikey=ebc63de1
+Title: Toki o kakeru shôjo, Poster: https://m.media-amazon.com/images/M/MV5BYzZjYjE2N2QtZDY5Ni00NmZkLTlhYmUtNjcxMzQyYzYxMDc1XkEyXkFqcGdeQXVyMTQ4NDY5OTc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Death+Note:+Desu+nôto&apikey=ebc63de1
+Movie 'Death Note: Desu nôto' not found in OMDb.
+https://www.omdbapi.com/?t=This+Is+England&apikey=ebc63de1
+Title: This Is England, Poster: https://m.media-amazon.com/images/M/MV5BNWJmYzE4OTUtNDNjYy00NGQwLTlhMDYtMzliNjViZWNjNmViXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ex+Machina&apikey=ebc63de1
+Title: Ex Machina, Poster: https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Efter+brylluppet&apikey=ebc63de1
+Movie 'Efter brylluppet' not found in OMDb.
+https://www.omdbapi.com/?t=The+Last+King+of+Scotland&apikey=ebc63de1
+Title: The Last King of Scotland, Poster: https://m.media-amazon.com/images/M/MV5BZDg4NjA0YzctNWMzMi00NmY1LTkyMGYtZjI4ZjFmZjMzMGE0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Zodiac&apikey=ebc63de1
+Title: Zodiac, Poster: https://m.media-amazon.com/images/M/MV5BNDFkMTRkZmQtM2I0NC00NjJjLWJlMDctNTNiZWYxYzhjZDZiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Lucky+Number+Slevin&apikey=ebc63de1
+Title: Lucky Number Slevin, Poster: https://m.media-amazon.com/images/M/MV5BNzJkYjA4YjEtMTZlZi00NjFjLTgwNDMtN2VhYTY0MDU3ZjcwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Joyeux+Noël&apikey=ebc63de1
+Title: Joyeux Noël, Poster: https://m.media-amazon.com/images/M/MV5BOWJiYTc3ZWMtNjk3ZC00MDE2LWE3NjItYjhhN2Q2ZTgzNWNlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Control&apikey=ebc63de1
+Title: Control, Poster: https://m.media-amazon.com/images/M/MV5BNTEzOTYwMTcxN15BMl5BanBnXkFtZTcwNTgyNjI1MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Tangled&apikey=ebc63de1
+Title: Tangled, Poster: https://m.media-amazon.com/images/M/MV5BMTAxNDYxMjg0MjNeQTJeQWpwZ15BbWU3MDcyNTk2OTM@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Zwartboek&apikey=ebc63de1
+Title: Zwartboek: The Special, Poster: N/A
+https://www.omdbapi.com/?t=Brokeback+Mountain&apikey=ebc63de1
+Title: Brokeback Mountain, Poster: https://m.media-amazon.com/images/M/MV5BMzM4OWFjMTMtZjNjOS00YmU3LTlhY2MtNjFiMTVkN2Y1OTZlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=3:10+to+Yuma&apikey=ebc63de1
+Title: 3:10 to Yuma, Poster: https://m.media-amazon.com/images/M/MV5BODE0NTcxNTQzNF5BMl5BanBnXkFtZTcwMzczOTIzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Crash&apikey=ebc63de1
+Title: Crash, Poster: https://m.media-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kung+fu&apikey=ebc63de1
+Title: Kung Fu, Poster: https://m.media-amazon.com/images/M/MV5BMThjZTE3YWYtZmVhZi00Njg3LWEyNGMtNTQ3MmFjYWJlMzI2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Bourne+Supremacy&apikey=ebc63de1
+Title: The Bourne Supremacy, Poster: https://m.media-amazon.com/images/M/MV5BZTU4ZDgyYjgtODA0Mi00MmE3LTgzYWQtZjc1YTFiMTczZTQ3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Machinist&apikey=ebc63de1
+Title: The Machinist, Poster: https://m.media-amazon.com/images/M/MV5BY2I1MmUxYmMtZjk3OC00N2MwLWI2YjAtNGQxODA1Y2I3YTI4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ray&apikey=ebc63de1
+Title: Ray, Poster: https://m.media-amazon.com/images/M/MV5BMTQxNDQwNjQzOV5BMl5BanBnXkFtZTcwNTQxNDYyMQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Lost+in+Translation&apikey=ebc63de1
+Title: Lost in Translation, Poster: https://m.media-amazon.com/images/M/MV5BMTUxMzk0NDg1MV5BMl5BanBnXkFtZTgwNDg0NjkxMDI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Harry+Potter+and+the+Goblet+of+Fire&apikey=ebc63de1
+Title: Harry Potter and the Goblet of Fire, Poster: https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Man+on+Fire&apikey=ebc63de1
+Title: Man on Fire, Poster: https://m.media-amazon.com/images/M/MV5BMGMzNjg3ZDgtOGNlNy00NTdjLWI2NDEtMjI1MmEwMTBmMjMxXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Coraline&apikey=ebc63de1
+Title: Coraline, Poster: https://m.media-amazon.com/images/M/MV5BMzQxNjM5NzkxNV5BMl5BanBnXkFtZTcwMzg5NDMwMg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Last+Samurai&apikey=ebc63de1
+Title: The Last Samurai, Poster: https://m.media-amazon.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Magdalene+Sisters&apikey=ebc63de1
+Title: The Magdalene Sisters, Poster: https://m.media-amazon.com/images/M/MV5BMGZkNTdhNWYtYTZmNi00NzQzLWFiMDYtOTBkOThkMzkyNGQ5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Good+Bye+Lenin!&apikey=ebc63de1
+Title: Good Bye Lenin!, Poster: https://m.media-amazon.com/images/M/MV5BMjhlNTY2YzUtOWIwYS00MjIwLThjZGUtMDNiNTQzZmM1MTdjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=In+America&apikey=ebc63de1
+Title: In America, Poster: https://m.media-amazon.com/images/M/MV5BN2M1YTkyNTctMjkyMC00N2Q5LWFjMGEtY2UyZDcyZjZlYzE5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=I+Am+Sam&apikey=ebc63de1
+Title: I Am Sam, Poster: https://m.media-amazon.com/images/M/MV5BZDBmMTY1YWEtMjc4Yy00YjhhLTliZjctMzBhN2U2NzRlNDQyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Adaptation.&apikey=ebc63de1
+Title: Adaptation., Poster: https://m.media-amazon.com/images/M/MV5BMmQ1MWMxZjEtNmNmYi00ZGFhLWExZDItODcwNzlmZjg0YzNlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Black+Hawk+Down&apikey=ebc63de1
+Title: Black Hawk Down, Poster: https://m.media-amazon.com/images/M/MV5BYTM3YTQ1M2MtNDEyNC00NzRlLWFmOTgtYjBhNDg2ODNjNTU0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Road+to+Perdition&apikey=ebc63de1
+Title: Road to Perdition, Poster: https://m.media-amazon.com/images/M/MV5BMjMyYjMyMzktMjlhZC00ZTZkLTkzMWQtZmEwMjdjNzJkM2RlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Das+Experiment&apikey=ebc63de1
+Title: Das Experiment, Poster: N/A
+https://www.omdbapi.com/?t=Billy+Elliot&apikey=ebc63de1
+Title: Billy Elliot, Poster: https://m.media-amazon.com/images/M/MV5BZThiYjczMmItNjBhZC00NzcwLTkyZjUtZGRiM2FiOGRiNDQ0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hedwig+and+the+Angry+Inch&apikey=ebc63de1
+Title: Hedwig and the Angry Inch, Poster: https://m.media-amazon.com/images/M/MV5BN2Q4MGJmYTgtNDhiMS00MTcwLTlhZjgtN2U5NWUyYzFiMWRmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ocean's+Eleven&apikey=ebc63de1
+Title: Ocean's Eleven, Poster: https://m.media-amazon.com/images/M/MV5BMmNhZDkxYTgtMDM3ZC00NTQ3LWFjZTUtNzc1Y2QyNWZjNDRmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Vampire+Hunter+D:+Bloodlust&apikey=ebc63de1
+Title: Vampire Hunter D: Bloodlust, Poster: https://m.media-amazon.com/images/M/MV5BMWE4MjMyOTQtZDI2OC00NTUxLTg3NzYtMDAxMzI2MmUzNjM4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=O+Brother,+Where+Art+Thou?&apikey=ebc63de1
+Title: O Brother, Where Art Thou?, Poster: https://m.media-amazon.com/images/M/MV5BMDhmMzZkYzctOTQ4MS00NWEzLWI1YzMtNTllZDhkYjgwOWQ0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Interstate+60:+Episodes+of+the+Road&apikey=ebc63de1
+Movie 'Interstate 60: Episodes of the Road' not found in OMDb.
+https://www.omdbapi.com/?t=South+Park:+Bigger,+Longer+&+Uncut&apikey=ebc63de1
+Title: South Park: Bigger, Longer & Uncut, Poster: https://m.media-amazon.com/images/M/MV5BMDcyNDE4OWEtMjIzNi00OTdmLWIwMWEtNWU2ZjM4ZjA4YzNkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Office+Space&apikey=ebc63de1
+Title: Office Space, Poster: https://m.media-amazon.com/images/M/MV5BOTA5MzQ3MzI1NV5BMl5BanBnXkFtZTgwNTcxNTYxMTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Happiness&apikey=ebc63de1
+Title: Happiness, Poster: https://m.media-amazon.com/images/M/MV5BNzczYzIyNGEtNWRlNi00NmU4LWI5YjgtNTFjMmUyMjhkOTBhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Training+Day&apikey=ebc63de1
+Title: Training Day, Poster: https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Rushmore&apikey=ebc63de1
+Title: Rushmore, Poster: https://m.media-amazon.com/images/M/MV5BZmM2MTNhYWItMDc4Yi00MTM3LWI3YTctYjE1NWRjNTczYjI5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Abre+los+ojos&apikey=ebc63de1
+Title: Abre los Ojos, Poster: https://m.media-amazon.com/images/M/MV5BZDQ3ZTQxODItNGI2Yi00MWM4LWIzM2UtZGRjNWNlOWJhMDRlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Being+John+Malkovich&apikey=ebc63de1
+Title: Being John Malkovich, Poster: https://m.media-amazon.com/images/M/MV5BNDExODk1MTktNzRiYS00MWEyLTgyOWItYTI1OWY4NzI1NDM2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=As+Good+as+It+Gets&apikey=ebc63de1
+Title: As Good as It Gets, Poster: https://m.media-amazon.com/images/M/MV5BMzBiMWJhYmQtOWYzNS00NjgxLWE5NDItNzZlZDQwODBmODNjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Fifth+Element&apikey=ebc63de1
+Title: The Fifth Element, Poster: https://m.media-amazon.com/images/M/MV5BODU4ZTE5MWYtNmY2MC00NDkyLTk0NDgtNTk5YjgzMzc4NmQwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Le+dîner+de+cons&apikey=ebc63de1
+Title: Le Dîner de Cons, Poster: https://m.media-amazon.com/images/M/MV5BMDc1NDM1NjAtOWIxMi00YTc1LWIyZWUtMzZkODkzYzQ1ZmU2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Donnie+Brasco&apikey=ebc63de1
+Title: Donnie Brasco, Poster: https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Shine&apikey=ebc63de1
+Title: Shine, Poster: https://m.media-amazon.com/images/M/MV5BODZlMjRmN2UtZmY1Yi00YjhjLTg4OTAtZmQxNWMwZTY5YjI4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Primal+Fear&apikey=ebc63de1
+Title: Primal Fear, Poster: https://m.media-amazon.com/images/M/MV5BZTJlYjM5MTYtZWU3YS00ZDRhLTk1MWEtZGQyODc1ZDU2MWEwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hamlet&apikey=ebc63de1
+Title: Hamlet, Poster: https://m.media-amazon.com/images/M/MV5BNGNjM2NkMmItMjg4YS00OWZiLTk4ZTAtMTUzMzhkNTUxZDc5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=A+Little+Princess&apikey=ebc63de1
+Title: A Little Princess, Poster: https://m.media-amazon.com/images/M/MV5BY2VjODg3MDEtOWZkYi00ZTEwLTllZGItZDc3N2I4MWIwODI3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Do+lok+tin+si&apikey=ebc63de1
+Movie 'Do lok tin si' not found in OMDb.
+https://www.omdbapi.com/?t=Il+postino&apikey=ebc63de1
+Title: Il postino, Poster: https://m.media-amazon.com/images/M/MV5BMjE1MTMwNjE4Ml5BMl5BanBnXkFtZTcwNTk3NTkyMQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Clerks&apikey=ebc63de1
+Title: Clerks, Poster: https://m.media-amazon.com/images/M/MV5BYzcwZTU5NzMtMGIxYi00NjRhLThkYTItNjhlYWQ0MjdhYWFmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Short+Cuts&apikey=ebc63de1
+Title: Short Cuts, Poster: https://m.media-amazon.com/images/M/MV5BYThkMTY5ZTgtYzc0Yy00MTZiLWE5YjUtMDAwM2E4Yjg5MmM5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Philadelphia&apikey=ebc63de1
+Title: Philadelphia, Poster: https://m.media-amazon.com/images/M/MV5BYzEzZmMwMmMtNDgxYi00YTAwLWFkMjQtOGQzNmUxMGU1YWYwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Muppet+Christmas+Carol&apikey=ebc63de1
+Title: The Muppet Christmas Carol, Poster: https://m.media-amazon.com/images/M/MV5BNTIwOTAyMDgtNTY1Zi00ZWMyLWFjMjAtNjI5YWIyOTE2NDJhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Malcolm+X&apikey=ebc63de1
+Title: Malcolm X, Poster: https://m.media-amazon.com/images/M/MV5BYTQwYjFhNTMtMjliOC00MGJhLTkwYWMtYjQzZTRiYjRlNjE4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Last+of+the+Mohicans&apikey=ebc63de1
+Title: The Last of the Mohicans, Poster: https://m.media-amazon.com/images/M/MV5BODAxNTAxMDItMzkwZS00ZTEyLWJlZmMtYTc0MGI1NDdkNWZkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kurenai+no+buta&apikey=ebc63de1
+Movie 'Kurenai no buta' not found in OMDb.
+https://www.omdbapi.com/?t=Glengarry+Glen+Ross&apikey=ebc63de1
+Title: Glengarry Glen Ross, Poster: https://m.media-amazon.com/images/M/MV5BM2Q5NDA1ODctNmM4Yy00Yjk4LTg2ZTUtZTJjYzYyMjA2MTdmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=A+Few+Good+Men&apikey=ebc63de1
+Title: A Few Good Men, Poster: https://m.media-amazon.com/images/M/MV5BOGVhMTUwYzEtZGQ1ZC00Nzg1LTk0OGUtMDk0NDM0ZmZlN2E0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Fried+Green+Tomatoes&apikey=ebc63de1
+Title: Fried Green Tomatoes, Poster: https://m.media-amazon.com/images/M/MV5BMzBhMzRkNGItNDFmMy00NjViLWFiYWYtMzAxMzI4YTZmZjRlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Barton+Fink&apikey=ebc63de1
+Title: Barton Fink, Poster: https://m.media-amazon.com/images/M/MV5BNDc1YWRjODItNGZjNS00MDI4LTliYWYtNDdjZjI3ZWYzNzM4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Miller's+Crossing&apikey=ebc63de1
+Title: Miller's Crossing, Poster: https://m.media-amazon.com/images/M/MV5BMTY2Njk3MTAzM15BMl5BanBnXkFtZTgwMTY5Mzk4NjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Who+Framed+Roger+Rabbit&apikey=ebc63de1
+Title: Who Framed Roger Rabbit, Poster: https://m.media-amazon.com/images/M/MV5BMDc5ZGRiM2EtMWRmMC00YjViLWEwMjYtNGE5MWVlZGEzZGM0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Spoorloos&apikey=ebc63de1
+Title: Spoorloos, Poster: https://m.media-amazon.com/images/M/MV5BYjY3OWJiZGUtYjlkZS00OGJiLTkwZTUtYWM5ZDFjMGM3ZDJjXkEyXkFqcGdeQXVyNjY5NjMzNDg@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Withnail+&+I&apikey=ebc63de1
+Title: Withnail & I, Poster: https://m.media-amazon.com/images/M/MV5BNmFlOGIyNTMtNjBhYy00NTRiLTg3YWEtMThhOWM5ODU4Y2M2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Last+Emperor&apikey=ebc63de1
+Title: The Last Emperor, Poster: https://m.media-amazon.com/images/M/MV5BYjIxYWFiMDgtZTgyMy00MjFiLWIyMmEtNGIyZjc1NTRlMzQ3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Empire+of+the+Sun&apikey=ebc63de1
+Title: Empire of the Sun, Poster: https://m.media-amazon.com/images/M/MV5BMWY2NjdkYzEtYWZhZS00YTdhLWJhMGQtZjkxZjZkODQyYWY5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Der+Name+der+Rose&apikey=ebc63de1
+Title: Die Abtei des Verbrechens: Umberto Ecos 'Der Name der Rose' wird verfilmt, Poster: https://m.media-amazon.com/images/M/MV5BZDBlYzEzNTgtZmZhNy00MWQ4LTkzMGItNjUyNWY5NmMzM2Q5XkEyXkFqcGdeQXVyMjA3NDg2Mzg@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Blue+Velvet&apikey=ebc63de1
+Title: Blue Velvet, Poster: https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Purple+Rose+of+Cairo&apikey=ebc63de1
+Title: The Purple Rose of Cairo, Poster: https://m.media-amazon.com/images/M/MV5BMDQ3NjE3YTMtYWY3ZC00NjcyLThlNDYtNTVmMDE2YjZjYzliXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=After+Hours&apikey=ebc63de1
+Title: After Hours, Poster: https://m.media-amazon.com/images/M/MV5BMTUxMjEzMzI2MV5BMl5BanBnXkFtZTgwNTU3ODAxMDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Zelig&apikey=ebc63de1
+Title: Zelig, Poster: https://m.media-amazon.com/images/M/MV5BMDJiYzNhZjUtNTRmMS00ZjA1LWFmNjUtZjgwYWY2NGYxYzg3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Verdict&apikey=ebc63de1
+Title: The Verdict, Poster: https://m.media-amazon.com/images/M/MV5BZGNhMzRhNTgtOWUwMy00MGNmLThmZjEtZWMxNDM0N2ZlNzM2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Star+Trek+II:+The+Wrath+of+Khan&apikey=ebc63de1
+Title: Star Trek II: The Wrath of Khan, Poster: https://m.media-amazon.com/images/M/MV5BOTFkZDY5NWQtMjY4Yy00OThiLTk3YjQtMDdhYTllMTI4MTdiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=First+Blood&apikey=ebc63de1
+Title: First Blood, Poster: https://m.media-amazon.com/images/M/MV5BYzc4ZmQ5YzEtYTQzYy00ZDdiLWI2NmQtZTA3MzM1ZGIyYmUzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Ordinary+People&apikey=ebc63de1
+Title: Ordinary People, Poster: https://m.media-amazon.com/images/M/MV5BODkyODllNDQtMTRjZS00ZGM5LWFmYmQtMzlhZjNhZjgwOGVhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Airplane!&apikey=ebc63de1
+Title: Airplane!, Poster: https://m.media-amazon.com/images/M/MV5BNGMxMDRhMjItMDNlZi00MDIzLWE5MDQtODljMDQ3MWM1Y2E4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Rupan+sansei:+Kariosutoro+no+shiro&apikey=ebc63de1
+Movie 'Rupan sansei: Kariosutoro no shiro' not found in OMDb.
+https://www.omdbapi.com/?t=Halloween&apikey=ebc63de1
+Title: Halloween, Poster: https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Le+locataire&apikey=ebc63de1
+Title: Le locataire, Poster: N/A
+https://www.omdbapi.com/?t=Love+and+Death&apikey=ebc63de1
+Title: Love and Death, Poster: https://m.media-amazon.com/images/M/MV5BNGY4ODgwYjctNGQ1NS00MzgxLWE2ZmQtMjdjN2IzNGUwY2I3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Taking+of+Pelham+One+Two+Three&apikey=ebc63de1
+Title: The Taking of Pelham One Two Three, Poster: https://m.media-amazon.com/images/M/MV5BMjE1NDY0NDk3Ml5BMl5BanBnXkFtZTcwMTAzMTM3NA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Blazing+Saddles&apikey=ebc63de1
+Title: Blazing Saddles, Poster: https://m.media-amazon.com/images/M/MV5BNTI3Y2Y4NDgtY2I1NS00M2JmLWI5NzEtYTQwYTUwZGQxYzZlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Serpico&apikey=ebc63de1
+Title: Serpico, Poster: https://m.media-amazon.com/images/M/MV5BYTg3NzUzYzYtMmQxOS00MjAwLWI0ZDYtNDg4OTQ4OTljNGFlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Enter+the+Dragon&apikey=ebc63de1
+Title: Enter the Dragon, Poster: https://m.media-amazon.com/images/M/MV5BZDAyYjAwNmMtMjM5OC00NTc5LThmNjAtOTUxODQxOWYwOTE5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Deliverance&apikey=ebc63de1
+Title: Deliverance, Poster: https://m.media-amazon.com/images/M/MV5BMWUyN2RlM2QtYzVlNy00Njc3LTgzMDMtNmJmMTk0OGY3ODFmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+French+Connection&apikey=ebc63de1
+Title: The French Connection, Poster: https://m.media-amazon.com/images/M/MV5BZDAyZDU3OWUtNWQ3Zi00ZWRkLWI4MGEtNDFlZWIzZDk5ZTZkXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dirty+Harry&apikey=ebc63de1
+Title: Dirty Harry, Poster: https://m.media-amazon.com/images/M/MV5BYzNmOWVjN2ItMTQzOS00MTI4LTgxZDItMmZjNTVlMjY5Mjc1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Where+Eagles+Dare&apikey=ebc63de1
+Title: Where Eagles Dare, Poster: https://m.media-amazon.com/images/M/MV5BNzY1YjdjM2EtOThhOS00YzUyLWFjODUtZTNjNmJmNTFjNWVmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Odd+Couple&apikey=ebc63de1
+Title: The Odd Couple, Poster: https://m.media-amazon.com/images/M/MV5BYjgwOTg4NDQtMWQxNy00OTlkLTkzMGQtZjJmYTAxMWY2MGU5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Dirty+Dozen&apikey=ebc63de1
+Title: The Dirty Dozen, Poster: https://m.media-amazon.com/images/M/MV5BNDg0ZjhiN2EtM2I3Mi00MDNlLWJiY2UtNmU0Zjg0YTQyMjg1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Belle+de+jour&apikey=ebc63de1
+Title: Belle de Jour, Poster: https://m.media-amazon.com/images/M/MV5BMDhiYmZmNjEtZjE1NC00YmIxLTgyMDEtODVkYTkyNzZkNzk0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=A+Man+for+All+Seasons&apikey=ebc63de1
+Title: A Man for All Seasons, Poster: https://m.media-amazon.com/images/M/MV5BNjBmMWM0MDQtY2JlNy00NjVkLWE1MjgtMTFmYmRkOTc1ZmNlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Repulsion&apikey=ebc63de1
+Title: Repulsion, Poster: https://m.media-amazon.com/images/M/MV5BOTE0YzBjNWEtZTE4NC00ZmM5LTllZmUtZGYwOGFlYWVjOGU2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Zulu&apikey=ebc63de1
+Title: Zulu, Poster: https://m.media-amazon.com/images/M/MV5BNzBkOTE1MjktMDQ4NS00YTYxLWIwZGMtNDMyN2QwMjMzZDI0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Goldfinger&apikey=ebc63de1
+Title: Goldfinger, Poster: https://m.media-amazon.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Birds&apikey=ebc63de1
+Title: The Birds, Poster: https://m.media-amazon.com/images/M/MV5BMTAxNDA1ODc5MDleQTJeQWpwZ15BbWU4MDg2MDA4OTEx._V1_SX300.jpg
+https://www.omdbapi.com/?t=Cape+Fear&apikey=ebc63de1
+Title: Cape Fear, Poster: https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Peeping+Tom&apikey=ebc63de1
+Title: Peeping Tom, Poster: https://m.media-amazon.com/images/M/MV5BZTkwYmQyZmMtYmZkMi00NTlhLTlhNmUtMDBmYzQ1YWIxNDBiXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Magnificent+Seven&apikey=ebc63de1
+Title: The Magnificent Seven, Poster: https://m.media-amazon.com/images/M/MV5BMTUzNTc0NTAyM15BMl5BanBnXkFtZTgwMTk1ODA5OTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Les+yeux+sans+visage&apikey=ebc63de1
+Title: European Horror: Les Yeux Sans Visage aka Eyes Without A Face (1960), Poster: https://m.media-amazon.com/images/M/MV5BNTEyMjExYzYtOGRjNi00M2Q2LTllZGEtZTg4NTMzMDA4MDczXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Invasion+of+the+Body+Snatchers&apikey=ebc63de1
+Title: Invasion of the Body Snatchers, Poster: https://m.media-amazon.com/images/M/MV5BMzUzNDdjOTAtOThlNS00OTc0LWIyZjEtMzA3YTA4Mjk2Yjc5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Rebel+Without+a+Cause&apikey=ebc63de1
+Title: Rebel Without a Cause, Poster: https://m.media-amazon.com/images/M/MV5BY2QzZWUzODQtODUyZi00NDBlLTgzMGEtY2UzNmZhYzI0MTEyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Ladykillers&apikey=ebc63de1
+Title: The Ladykillers, Poster: https://m.media-amazon.com/images/M/MV5BMTYwNjUxMTYzM15BMl5BanBnXkFtZTYwNjgwMjY3._V1_SX300.jpg
+https://www.omdbapi.com/?t=Sabrina&apikey=ebc63de1
+Title: Sabrina, Poster: https://m.media-amazon.com/images/M/MV5BNjQ5MWI5YWYtYzYxNi00ODM4LWI4NzEtNzUzYmVkNzRiYzNlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Quiet+Man&apikey=ebc63de1
+Title: The Quiet Man, Poster: https://m.media-amazon.com/images/M/MV5BY2ZjYTNmMzAtYTcyOC00NTczLWJhYTItODNkNDIwNTc2ZjQ1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Day+the+Earth+Stood+Still&apikey=ebc63de1
+Title: The Day the Earth Stood Still, Poster: https://m.media-amazon.com/images/M/MV5BMTI5NTg1MzU5Nl5BMl5BanBnXkFtZTcwMDU1ODMwMg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+African+Queen&apikey=ebc63de1
+Title: The African Queen, Poster: https://m.media-amazon.com/images/M/MV5BY2Y0OWQ4Y2QtNGE5NC00MDk4LWFlYmQtYWVmNzZlZWVhMTg4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Gilda&apikey=ebc63de1
+Title: Gilda, Poster: https://m.media-amazon.com/images/M/MV5BMGI5Nzk3M2YtOGRkZi00NTU1LTgxM2EtNjBmNjk0YTgxZjU5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Fantasia&apikey=ebc63de1
+Title: Fantasia, Poster: https://m.media-amazon.com/images/M/MV5BMmM1NGNjZWUtZTk2Zi00ZjdmLTk3Y2QtMDQyNjJjMWI1ZDFlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Invisible+Man&apikey=ebc63de1
+Title: The Invisible Man, Poster: https://m.media-amazon.com/images/M/MV5BYTM3NDJhZWUtZWM1Yy00ODk4LThjNmMtNDg3OGYzMGM2OGYzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dark+Waters&apikey=ebc63de1
+Title: Dark Waters, Poster: https://m.media-amazon.com/images/M/MV5BNmQzM2M4MTEtZjM3Yy00Njk1LWJmNjQtYzg4YjVmZmZkZDA0XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Searching&apikey=ebc63de1
+Title: Searching, Poster: https://m.media-amazon.com/images/M/MV5BYjA2ZTk3NDEtZDQ2Mi00MzhjLTgwZWYtOTBkMjUyMGYwMjI4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Once+Upon+a+Time...+in+Hollywood&apikey=ebc63de1
+Title: Once Upon a Time... in Hollywood, Poster: https://m.media-amazon.com/images/M/MV5BMzMzNmViNjYtN2ViNi00NDM3LWFlMmItNDYyMGIzY2EzZjE2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Nelyubov&apikey=ebc63de1
+Title: Nelyubov, Poster: https://m.media-amazon.com/images/M/MV5BZGZiZjM5NWQtNGZmZi00MDU3LTk4ZDYtNDFlYmVhNjg5YTA1XkEyXkFqcGdeQXVyNjg2ODY4ODc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Florida+Project&apikey=ebc63de1
+Title: The Florida Project, Poster: https://m.media-amazon.com/images/M/MV5BNDBhM2MxYjAtMWFiYy00MWMwLThkMDYtN2M1ZWY3NjkxNGExXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Just+Mercy&apikey=ebc63de1
+Title: Just Mercy, Poster: https://m.media-amazon.com/images/M/MV5BNmJmYmUyODctZDU2Mi00NDhlLWFmYWYtZDcxZmZhMzUxZTFhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Gifted&apikey=ebc63de1
+Title: Gifted, Poster: https://m.media-amazon.com/images/M/MV5BMjQ2NDU3NDE0M15BMl5BanBnXkFtZTgwMjA3OTg0MDI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Peanut+Butter+Falcon&apikey=ebc63de1
+Title: The Peanut Butter Falcon, Poster: https://m.media-amazon.com/images/M/MV5BYjgxZTE4NDctZTM1MC00YjIwLTk0MmMtNWFkZGUwMGE2ZjNhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Victoria&apikey=ebc63de1
+Title: Victoria, Poster: https://m.media-amazon.com/images/M/MV5BMTc5NzQzNjk2NF5BMl5BanBnXkFtZTgwODU0MjI5NjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mustang&apikey=ebc63de1
+Title: Mustang, Poster: https://m.media-amazon.com/images/M/MV5BMTkwODUzODA0OV5BMl5BanBnXkFtZTgwMTA3ODkxNzE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Guardians+of+the+Galaxy+Vol.+2&apikey=ebc63de1
+Title: Guardians of the Galaxy Vol. 2, Poster: https://m.media-amazon.com/images/M/MV5BNWE5MGI3MDctMmU5Ni00YzI2LWEzMTQtZGIyZDA5MzQzNDBhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Baby+Driver&apikey=ebc63de1
+Title: Baby Driver, Poster: https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Only+the+Brave&apikey=ebc63de1
+Title: Only the Brave, Poster: https://m.media-amazon.com/images/M/MV5BMGI1Mzk3MmUtMTg4Ni00NzE2LTk1NzUtMmNhMDAxN2E0MWI2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Bridge+of+Spies&apikey=ebc63de1
+Title: Bridge of Spies, Poster: https://m.media-amazon.com/images/M/MV5BMjIxOTI0MjU5NV5BMl5BanBnXkFtZTgwNzM4OTk4NTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Incredibles+2&apikey=ebc63de1
+Title: Incredibles 2, Poster: https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_SX300.jpg
+https://www.omdbapi.com/?t=Moana&apikey=ebc63de1
+Title: Moana, Poster: https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Sicario&apikey=ebc63de1
+Title: Sicario, Poster: https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Creed&apikey=ebc63de1
+Title: Creed, Poster: https://m.media-amazon.com/images/M/MV5BNWM3NjY2ZDctMGZiYy00OGFlLThkMTktOTY2MDM2YjE2OTliXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Leviafan&apikey=ebc63de1
+Movie 'Leviafan' not found in OMDb.
+https://www.omdbapi.com/?t=Hell+or+High+Water&apikey=ebc63de1
+Title: Hell or High Water, Poster: https://m.media-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Philomena&apikey=ebc63de1
+Title: Philomena, Poster: https://m.media-amazon.com/images/M/MV5BMjA5ODgyNzcxMV5BMl5BanBnXkFtZTgwMzkzOTYzMDE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dawn+of+the+Planet+of+the+Apes&apikey=ebc63de1
+Title: Dawn of the Planet of the Apes, Poster: https://m.media-amazon.com/images/M/MV5BNWNjYzQ4ZGItZTg1My00NTM2LTg1NDUtYThjOTQwMTYyNjU1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=El+cuerpo&apikey=ebc63de1
+Title: El Cuerpo, Poster: https://m.media-amazon.com/images/M/MV5BM2IzNjI0OWItMzZmZS00ZWQ5LWI5NWEtNjg5MWM0NWRiYjQ2XkEyXkFqcGdeQXVyMTg5NTI3OTE@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Serbuan+maut&apikey=ebc63de1
+Movie 'Serbuan maut' not found in OMDb.
+https://www.omdbapi.com/?t=End+of+Watch&apikey=ebc63de1
+Title: End of Watch, Poster: https://m.media-amazon.com/images/M/MV5BMjMxNjU0ODU5Ml5BMl5BanBnXkFtZTcwNjI4MzAyOA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kari-gurashi+no+Arietti&apikey=ebc63de1
+Movie 'Kari-gurashi no Arietti' not found in OMDb.
+https://www.omdbapi.com/?t=A+Star+Is+Born&apikey=ebc63de1
+Title: A Star Is Born, Poster: https://m.media-amazon.com/images/M/MV5BNGUxZTc0NTAtNzQwMy00MmM2LTgzMGYtZWIyY2E1MGFjYmM5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=True+Grit&apikey=ebc63de1
+Title: True Grit, Poster: https://m.media-amazon.com/images/M/MV5BMTU5MjU3MTI4OF5BMl5BanBnXkFtZTcwMTQxOTAxNA@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Hævnen&apikey=ebc63de1
+Title: Hævnen, Poster: https://m.media-amazon.com/images/M/MV5BYzg1ZTVmOTEtYzcyNy00MWYxLTgzZWYtMTUxMTIzNzkzYTdmXkEyXkFqcGdeQXVyMTIwMzI1MjEx._V1_SX300.jpg
+https://www.omdbapi.com/?t=Despicable+Me&apikey=ebc63de1
+Title: Despicable Me, Poster: https://m.media-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=50/50&apikey=ebc63de1
+Title: 50/50, Poster: https://m.media-amazon.com/images/M/MV5BNjg3ODQyNTIyN15BMl5BanBnXkFtZTcwMjUzNzM5NQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Kick-Ass&apikey=ebc63de1
+Title: Kick-Ass, Poster: https://m.media-amazon.com/images/M/MV5BMTMzNzEzMDYxM15BMl5BanBnXkFtZTcwMTc0NTMxMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Celda+211&apikey=ebc63de1
+Movie 'Celda 211' not found in OMDb.
+https://www.omdbapi.com/?t=Moneyball&apikey=ebc63de1
+Title: Moneyball, Poster: https://m.media-amazon.com/images/M/MV5BMjAxOTU3Mzc1M15BMl5BanBnXkFtZTcwMzk1ODUzNg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+piel+que+habito&apikey=ebc63de1
+Movie 'La piel que habito' not found in OMDb.
+https://www.omdbapi.com/?t=Zombieland&apikey=ebc63de1
+Title: Zombieland, Poster: https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Die+Welle&apikey=ebc63de1
+Title: Die Welle, Poster: N/A
+https://www.omdbapi.com/?t=Sherlock+Holmes&apikey=ebc63de1
+Title: Sherlock Holmes, Poster: https://m.media-amazon.com/images/M/MV5BMTg0NjEwNjUxM15BMl5BanBnXkFtZTcwMzk0MjQ5Mg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Blind+Side&apikey=ebc63de1
+Title: The Blind Side, Poster: https://m.media-amazon.com/images/M/MV5BMjEzOTE3ODM3OF5BMl5BanBnXkFtZTcwMzYyODI4Mg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Visitor&apikey=ebc63de1
+Title: The Visitor, Poster: https://m.media-amazon.com/images/M/MV5BMTIzNTg3NzkzNV5BMl5BanBnXkFtZTcwNzMwMjU2MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Seven+Pounds&apikey=ebc63de1
+Title: Seven Pounds, Poster: https://m.media-amazon.com/images/M/MV5BMTU0NzY0MTY5OF5BMl5BanBnXkFtZTcwODY3MDEwMg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Eastern+Promises&apikey=ebc63de1
+Title: Eastern Promises, Poster: https://m.media-amazon.com/images/M/MV5BMTcwMzU0OTY3NF5BMl5BanBnXkFtZTYwNzkwNjg2._V1_SX300.jpg
+https://www.omdbapi.com/?t=Stardust&apikey=ebc63de1
+Title: Stardust, Poster: https://m.media-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Secret+of+Kells&apikey=ebc63de1
+Title: The Secret of Kells, Poster: https://m.media-amazon.com/images/M/MV5BMjEzMjEzNTIzOF5BMl5BanBnXkFtZTcwMTg2MjAyMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Inside+Man&apikey=ebc63de1
+Title: Inside Man, Poster: https://m.media-amazon.com/images/M/MV5BZWFmMDZkYjktMjYyOS00MTM2LTg2MmQtOTUwMzJjMDlhZDY1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Gone+Baby+Gone&apikey=ebc63de1
+Title: Gone Baby Gone, Poster: https://m.media-amazon.com/images/M/MV5BOTlmNmU2NDgtZDU1OS00OTFhLWJlNTgtMWE2OGQ1OTg1MGM4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=La+Vie+En+Rose&apikey=ebc63de1
+Title: La Vie En Rose, Poster: https://m.media-amazon.com/images/M/MV5BNWI3YjYxYWUtNmExZS00NjFlLWEwNmMtOThjNGI0ZWU2OGQ5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Huo+Yuan+Jia&apikey=ebc63de1
+Title: The Legend of Huo Yuan Jia, Poster: N/A
+https://www.omdbapi.com/?t=The+Illusionist&apikey=ebc63de1
+Title: The Illusionist, Poster: https://m.media-amazon.com/images/M/MV5BNzNmYmI4YWMtMGFkOS00ODVkLTg3MTEtOTExNDg3ZjQ0MGM3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dead+Man's+Shoes&apikey=ebc63de1
+Title: Dead Man's Shoes, Poster: https://m.media-amazon.com/images/M/MV5BMTI5Mzk1MDc2M15BMl5BanBnXkFtZTcwMjIzMDA0MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Harry+Potter+and+the+Half-Blood+Prince&apikey=ebc63de1
+Title: Harry Potter and the Half-Blood Prince, Poster: https://m.media-amazon.com/images/M/MV5BNzU3NDg4NTAyNV5BMl5BanBnXkFtZTcwOTg2ODg1Mg@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=300&apikey=ebc63de1
+Title: 300, Poster: https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Match+Point&apikey=ebc63de1
+Title: Match Point, Poster: https://m.media-amazon.com/images/M/MV5BMTQ1NzQ4OTM4MV5BMl5BanBnXkFtZTcwNzY2OTQzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Watchmen&apikey=ebc63de1
+Title: Watchmen, Poster: https://m.media-amazon.com/images/M/MV5BYmJiNTUwYWUtZDllNi00ODdjLWFmNTEtOTVlNmYxYTZhNzYzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Lord+of+War&apikey=ebc63de1
+Title: Lord of War, Poster: https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Saw&apikey=ebc63de1
+Title: Saw, Poster: https://m.media-amazon.com/images/M/MV5BZTE5MzFlMTktMzBkOC00ZjMxLThmOTAtOGU3ZGEwZGRlNDdjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Synecdoche,+New+York&apikey=ebc63de1
+Title: Synecdoche, New York, Poster: https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mysterious+Skin&apikey=ebc63de1
+Title: Mysterious Skin, Poster: https://m.media-amazon.com/images/M/MV5BNDhiY2U2NDMtMzQ4Ny00YzRlLTk5NDUtOTVkODIzYTZjNDhhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Jeux+d'enfants&apikey=ebc63de1
+Title: Jeux d'enfants dans une rue, Poster: N/A
+https://www.omdbapi.com/?t=Un+long+dimanche+de+fiançailles&apikey=ebc63de1
+Title: Un long dimanche de fiançailles: le making-of, Poster: https://m.media-amazon.com/images/M/MV5BMjEwYTczMDAtZGU5ZS00YmU3LTkyOTMtYWNmYzVhZDUzZGUwXkEyXkFqcGdeQXVyNDY0MDkxNDU@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Station+Agent&apikey=ebc63de1
+Title: The Station Agent, Poster: https://m.media-amazon.com/images/M/MV5BMTUzNDgyMzg3Ml5BMl5BanBnXkFtZTcwMzIxNTAwMQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=21+Grams&apikey=ebc63de1
+Title: 21 Grams, Poster: https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Boksuneun+naui+geot&apikey=ebc63de1
+Movie 'Boksuneun naui geot' not found in OMDb.
+https://www.omdbapi.com/?t=Finding+Neverland&apikey=ebc63de1
+Title: Finding Neverland, Poster: https://m.media-amazon.com/images/M/MV5BZWIyODcyYzYtNTNhMy00MThjLTkxZDgtMTBiOWY3ODkxNzQ1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=25th+Hour&apikey=ebc63de1
+Title: 25th Hour, Poster: https://m.media-amazon.com/images/M/MV5BMjg0OWI0ZjktZTM0My00NmI3LTkzNDEtYzJiODE1ODM0MDk3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Butterfly+Effect&apikey=ebc63de1
+Title: The Butterfly Effect, Poster: https://m.media-amazon.com/images/M/MV5BZDk0ZDJiODEtNWM2ZC00OWYxLWExN2YtNTFlNjI4NTVmZmZmXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=28+Days+Later...&apikey=ebc63de1
+Title: 28 Days Later, Poster: https://m.media-amazon.com/images/M/MV5BM2I4NTI0ZGQtNGQ2ZC00ODIxLWI2N2QtMDBkNzI1NDhjYjE5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Batoru+rowaiaru&apikey=ebc63de1
+Title: Pachinko batoru rowaiaru, Poster: N/A
+https://www.omdbapi.com/?t=The+Royal+Tenenbaums&apikey=ebc63de1
+Title: The Royal Tenenbaums, Poster: https://m.media-amazon.com/images/M/MV5BNTZlOWU4ZmEtZjkzMC00OWJkLTkwMTAtZTUyOTFlNGY2YTNjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Y+tu+mamá+también&apikey=ebc63de1
+Title: Y tu mamá también, Poster: https://m.media-amazon.com/images/M/MV5BNTRmZmNlMjktZDRkMi00OGNjLWJkZGUtMDljNDViMGE3MjNhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Harry+Potter+and+the+Sorcerer's+Stone&apikey=ebc63de1
+Title: Harry Potter and the Sorcerer's Stone, Poster: https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Others&apikey=ebc63de1
+Title: The Others, Poster: https://m.media-amazon.com/images/M/MV5BZTNhODBkODAtNDllYy00YTg1LWJmNDUtYjgzMzEzOWQ0YWNjXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Blow&apikey=ebc63de1
+Title: Blow, Poster: https://m.media-amazon.com/images/M/MV5BNTNkMzMwOWItM2FmYS00YmI2LWE4NjUtMmI5MDk0YTkwZjM2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Enemy+at+the+Gates&apikey=ebc63de1
+Title: Enemy at the Gates, Poster: https://m.media-amazon.com/images/M/MV5BODM5MmQyYjktMzg5Ny00Y2Y1LThlNWQtNjQ5OGMwNmY2YjcyXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Minority+Report&apikey=ebc63de1
+Title: Minority Report, Poster: https://m.media-amazon.com/images/M/MV5BYTdmNzM3YzItZTRkYS00MTY5LTg4ZmItNjFmNTk2N2Q2NmNlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Hurricane&apikey=ebc63de1
+Title: The Hurricane, Poster: https://m.media-amazon.com/images/M/MV5BNmFhODUzNGMtMjZhMC00ZDI4LWFhYzYtMmM3MDcyMGZlYWM2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=American+Psycho&apikey=ebc63de1
+Title: American Psycho, Poster: https://m.media-amazon.com/images/M/MV5BNzBjM2I5ZjUtNmIzNy00OGNkLWIwZDMtOTAwYWUwMzA2YjdlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Lola+rennt&apikey=ebc63de1
+Movie 'Lola rennt' not found in OMDb.
+https://www.omdbapi.com/?t=The+Thin+Red+Line&apikey=ebc63de1
+Title: The Thin Red Line, Poster: https://m.media-amazon.com/images/M/MV5BMzQ5NmViMDUtMjI1NC00ZWJkLTkwNzctMmIxZWY2MzQyZDc2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Mulan&apikey=ebc63de1
+Title: Mulan, Poster: https://m.media-amazon.com/images/M/MV5BYzU0ZTQxZDktOGY0Yy00NjdiLTllNDItMTMzMjI1YjMyYjRhXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Fear+and+Loathing+in+Las+Vegas&apikey=ebc63de1
+Title: Fear and Loathing in Las Vegas, Poster: https://m.media-amazon.com/images/M/MV5BNjFkNjdiZjUtNzUzNy00NWM5LWFlNDUtNTRiYmJiZWNiYjkwXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Funny+Games&apikey=ebc63de1
+Title: Funny Games, Poster: https://m.media-amazon.com/images/M/MV5BMTg4OTExNTYzMV5BMl5BanBnXkFtZTcwOTg1MDU1MQ@@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dark+City&apikey=ebc63de1
+Title: Dark City, Poster: https://m.media-amazon.com/images/M/MV5BMTFhMmE1YzgtNTFhYS00MTRlLWI3ZDMtMWJkMTBmOWMzOTk5XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Sleepers&apikey=ebc63de1
+Title: Sleepers, Poster: https://m.media-amazon.com/images/M/MV5BMjBhMWRmZTAtOGRlNC00YWYxLTlmZWUtYTY4YThlZGNhYmM2XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Lost+Highway&apikey=ebc63de1
+Title: Lost Highway, Poster: https://m.media-amazon.com/images/M/MV5BNjcyNmM2ODktYzk0Mi00Njk0LTljZGMtNGZhMzI4NmY1NzA1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Sense+and+Sensibility&apikey=ebc63de1
+Title: Sense and Sensibility, Poster: https://m.media-amazon.com/images/M/MV5BY2MyZWJhNjktMWQ2My00OTgwLWI1NjEtYjUzM2M2N2M4Mzc4XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Die+Hard:+With+a+Vengeance&apikey=ebc63de1
+Title: Die Hard with a Vengeance, Poster: https://m.media-amazon.com/images/M/MV5BYjkzNzdkMTctNzMwMS00M2Q0LWIyOTMtNmM2NDY5NWZjNTJlXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Dead+Man&apikey=ebc63de1
+Title: Dead Man, Poster: https://m.media-amazon.com/images/M/MV5BZjdjN2Q4MzctOWZjMS00ZjZkLTg5OWQtM2NjMTliYmE3MTY1XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=The+Bridges+of+Madison+County&apikey=ebc63de1
+Title: The Bridges of Madison County, Poster: https://m.media-amazon.com/images/M/MV5BOWY5ZjgxY2EtNGQyMS00NmYwLWE3YzAtNzc3ZWQ2YmIzNjkzXkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Apollo+13&apikey=ebc63de1
+Title: Apollo 13, Poster: https://m.media-amazon.com/images/M/MV5BMGZmNGY1OTAtNjFkYS00MjcyLWFlZjUtYzEyMDllZGZhMzM3XkEyXkFqcGc@._V1_SX300.jpg
+https://www.omdbapi.com/?t=Trois+couleurs:+Blanc&apikey=ebc63de1
+	
