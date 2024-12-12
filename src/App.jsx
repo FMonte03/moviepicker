@@ -29,7 +29,7 @@ function App() {
           <Route path="/SearchByActor" element={<SearchByActor />} />
           <Route path='/' element={<Home handleSubmit={handleSubmit} />} /> 
           <Route path="/Movie" element={<MoviePage />} />
-          <Route path="/moviepicker" element={<Home />} />
+          <Route path="/moviepicker" element={<Home handleSubmit={handleSubmit} />} />
         </Routes>
       </div>
   );
