@@ -1,5 +1,5 @@
 import React from 'react';
-import MovieSurvey from '../Components/MovieSurvey'
+import MoviePoster from '../Components/MoviePoster';
 import Question from '../Components/Question';
 
 function Home({ handleSubmit}) {

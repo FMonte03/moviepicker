@@ -25,6 +25,7 @@ function App() {
       <div className="App">
         <NavBar />
         <Routes>
+     
           <Route path="/SearchByGenre" element={<SearchByGenre />} />
           <Route path="/SearchByActor" element={<SearchByActor />} />
           <Route path='/' element={<Home handleSubmit={handleSubmit} />} /> 

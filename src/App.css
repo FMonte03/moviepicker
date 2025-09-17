@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.chatContainer{
+  background-color: black;
+  
+  height: 100vh;
+  width: 100vw;
+}
+
+.App {
+  height: 100vh;
+}
