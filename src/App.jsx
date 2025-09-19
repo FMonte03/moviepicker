@@ -21,8 +21,7 @@ function App() {
       <NavBar />
       <Routes>
         <Route path='/moviepicker' element={<Home handleSubmit={handleSubmit} />} />
-        <Route  element={<Home handleSubmit={handleSubmit} />} />
-        <Route path='/' element={<Home handleSubmit={handleSubmit} />} />
+        
         <Route index element={<Home handleSubmit={handleSubmit} />} />
         <Route path="/SearchByGenre" element={<SearchByGenre />} />
         <Route path="/SearchByActor" element={<SearchByActor />} />
