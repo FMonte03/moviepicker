@@ -23,18 +23,17 @@ function App() {
   
 
   return (
+    <Router basename="/moviepicker">
       <div className="App">
         <NavBar />
-
-  <Routes>
-     
+        <Routes>
+          <Route path="/" element={<Home handleSubmit={handleSubmit} />} />
           <Route path="/SearchByGenre" element={<SearchByGenre />} />
           <Route path="/SearchByActor" element={<SearchByActor />} />
-          <Route path='/moviepicker/' element={<Home handleSubmit={handleSubmit} />} /> 
           <Route path="/Movie" element={<MoviePage />} />
         </Routes>
-     
       </div>
+    </Router>
   );
 }
 
