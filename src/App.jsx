@@ -7,6 +7,7 @@ import { useNavigate } from 'react-router-dom';
 import SearchByGenre from './Pages/SearchByGenre.jsx';
 import SearchByActor from './Pages/SearchByActor.jsx';
 
+
 function App() {
  
   const navigate = useNavigate();
@@ -24,13 +25,15 @@ function App() {
   return (
       <div className="App">
         <NavBar />
-        <Routes>
+
+  <Routes>
      
           <Route path="/SearchByGenre" element={<SearchByGenre />} />
           <Route path="/SearchByActor" element={<SearchByActor />} />
-          <Route path='/' element={<Home handleSubmit={handleSubmit} />} /> 
+          <Route path='/moviepicker/' element={<Home handleSubmit={handleSubmit} />} /> 
           <Route path="/Movie" element={<MoviePage />} />
         </Routes>
+     
       </div>
   );
 }
