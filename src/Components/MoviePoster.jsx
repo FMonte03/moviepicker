@@ -7,7 +7,7 @@ import MoviePage from '../Pages/MoviePage';
 function MoviePoster({movie}) {
     
    
-
+//fefe
     return (
     
     <div className='moviePoster' key={movie.Series_Title}>
