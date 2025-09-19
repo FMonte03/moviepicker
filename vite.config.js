@@ -8,6 +8,6 @@ export default defineConfig({
   base: '/moviepicker/',
   plugins: [react()],
   build: {
-    outDir: 'docs'
+    outDir: 'dist'
   }
 })
